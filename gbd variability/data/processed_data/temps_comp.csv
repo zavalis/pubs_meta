@@ -1,0 +1,829 @@
+Level,Risk_factor,measure,year_gbd,anal_year,val,lower,upper,Group,Overarching_group
+,Unsafe water source,Deaths,2010,2010,116126.0,7518.0,233136.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,Deaths,2010,2010,244106.0,6027.0,478186.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Ambient particulate matter pollution,Deaths,2010,2010,3223540.0,2828854.0,3619148.0,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,Deaths,2010,2010,3478773.0,2638548.0,4386590.0,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,Deaths,2010,2010,152434.0,52272.0,267431.0,Air pollution,Environmental/occupational risks
+,Other environmental risks,Deaths,2010,2010,773030.0,640893.0,929935.0,Other environmental risks,Environmental/occupational risks
+,Residential radon,Deaths,2010,2010,98992.0,13133.0,215237.0,Other environmental risks,Environmental/occupational risks
+,Lead exposure,Deaths,2010,2010,674038.0,575858.0,779314.0,Other environmental risks,Environmental/occupational risks
+,Suboptimal breastfeeding,Deaths,2010,2010,544817.0,338453.0,775077.0,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,Deaths,2010,2010,119608.0,93261.0,139985.0,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,Deaths,2010,2010,119762.0,61723.0,191846.0,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,Deaths,2010,2010,97330.0,17575.0,190527.0,Child and maternal malnutrition,Behavioural risks
+,Tobacco,Deaths,2010,2010,6297287.0,5395769.0,7006942.0,Tobacco,Behavioural risks
+,Smoking,Deaths,2010,2010,5695349.0,4755779.0,6421611.0,Tobacco,Behavioural risks
+,Second-hand smoke,Deaths,2010,2010,601938.0,447705.0,745328.0,Tobacco,Behavioural risks
+,High alcohol use,Deaths,2010,2010,2735511.0,2464575.0,3006459.0,High alcohol use,Behavioural risks
+,Drug use,Deaths,2010,2010,157805.0,124639.0,209873.0,Drug use,Behavioural risks
+,High fasting plasma glucose,Deaths,2010,2010,3356271.0,2917520.0,3782483.0,High fasting plasma glucose,Metabolic risks
+,High LDL cholesterol*,Deaths,2010,2010,2018811.0,1572853.0,2479097.0,High LDL cholesterol*,Metabolic risks
+,High systolic blood pressure,Deaths,2010,2010,9395860.0,8579630.0,10147805.0,High systolic blood pressure,Metabolic risks
+,High body-mass index,Deaths,2010,2010,3371232.0,2817774.0,3951127.0,High body-mass index,Metabolic risks
+,Low bone mineral density,Deaths,2010,2010,187586.0,140636.0,219906.0,Low bone mineral density,Metabolic risks
+,Diet low in fruits,Deaths,2010,2010,4902242.0,3818356.0,5881561.0,Dietary risks,Behavioural risks
+,Diet low in vegetables,Deaths,2010,2010,1797254.0,1205059.0,2394366.0,Dietary risks,Behavioural risks
+,Diet low in whole grains,Deaths,2010,2010,1725812.0,1342896.0,2067224.0,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,Deaths,2010,2010,2471823.0,1559603.0,3226994.0,Dietary risks,Behavioural risks
+,Diet low in milk,Deaths,2010,2010,100951.0,29728.0,171340.0,Dietary risks,Behavioural risks
+,Diet high in red meat,Deaths,2010,2010,38092.0,10749.0,65727.0,Dietary risks,Behavioural risks
+,Diet high in processed meat,Deaths,2010,2010,840857.0,188952.0,1460279.0,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",Deaths,2010,2010,299521.0,212310.0,403716.0,Dietary risks,Behavioural risks
+,Diet low in fiber,Deaths,2010,2010,742888.0,334379.0,1166933.0,Dietary risks,Behavioural risks
+,Diet low in calcium,Deaths,2010,2010,125594.0,88323.0,164800.0,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,Deaths,2010,2010,1389896.0,1010300.0,1781401.0,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",Deaths,2010,2010,533603.0,245096.0,820854.0,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,Deaths,2010,2010,515260.0,371081.0,649451.0,Dietary risks,Behavioural risks
+,Diet high in sodium,Deaths,2010,2010,3104308.0,2016734.0,4105019.0,Dietary risks,Behavioural risks
+,Low physical activity,Deaths,2010,2010,3183940.0,2657204.0,3718963.0,Low physical activity,Behavioural risks
+,Occupational risks,Deaths,2010,2010,852107.0,659652.0,1062443.0,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,Deaths,2010,2010,118097.0,77249.0,160431.0,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,Deaths,2010,2010,33716.0,22844.0,58659.0,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",Deaths,2010,2010,218864.0,100403.0,344633.0,Occupational risks,Environmental/occupational risks
+,Occupational noise,Deaths,2010,2010,0.0,0.0,0.0,Occupational risks,Environmental/occupational risks
+,Occupational injuries,Deaths,2010,2010,481429.0,363778.0,639590.0,Occupational risks,Environmental/occupational risks
+,Intimate partner violence,Deaths,2010,2010,186365.0,92028.0,280059.0,Intimate partner violence,Behavioural risks
+,Unsafe water source,DALYs,2010,2010,7775000.0,514000.0,15705000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,DALYs,2010,2010,14927000.0,377000.0,29705000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Ambient particulate matter pollution,DALYs,2010,2010,76163000.0,68086000.0,85171000.0,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,DALYs,2010,2010,110962000.0,86848000.0,137813000.0,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,DALYs,2010,2010,2456000.0,837000.0,4299000.0,Air pollution,Environmental/occupational risks
+,Other environmental risks,DALYs,2010,2010,16051000.0,13212000.0,19503000.0,Other environmental risks,Environmental/occupational risks
+,Residential radon,DALYs,2010,2010,2114000.0,273000.0,4660000.0,Other environmental risks,Environmental/occupational risks
+,Lead exposure,DALYs,2010,2010,13936000.0,11750000.0,16327000.0,Other environmental risks,Environmental/occupational risks
+,Suboptimal breastfeeding,DALYs,2010,2010,47537000.0,29868000.0,67518000.0,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,DALYs,2010,2010,48225000.0,33769000.0,67592000.0,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,DALYs,2010,2010,10770000.0,5625000.0,17149000.0,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,DALYs,2010,2010,9136000.0,2458000.0,16903000.0,Child and maternal malnutrition,Behavioural risks
+,Tobacco,DALYs,2010,2010,156838000.0,136543000.0,173057000.0,Tobacco,Behavioural risks
+,Smoking,DALYs,2010,2010,136907000.0,117201000.0,153778000.0,Tobacco,Behavioural risks
+,Second-hand smoke,DALYs,2010,2010,19931000.0,15707000.0,24223000.0,Tobacco,Behavioural risks
+,High alcohol use,DALYs,2010,2010,136063000.0,125361000.0,146788000.0,High alcohol use,Behavioural risks
+,Drug use,DALYs,2010,2010,23810000.0,18780000.0,29246000.0,Drug use,Behavioural risks
+,High fasting plasma glucose,DALYs,2010,2010,89012000.0,77743000.0,101390000.0,High fasting plasma glucose,Metabolic risks
+,High LDL cholesterol*,DALYs,2010,2010,40900000.0,31662000.0,50484000.0,High LDL cholesterol*,Metabolic risks
+,High systolic blood pressure,DALYs,2010,2010,173556000.0,155939000.0,189025000.0,High systolic blood pressure,Metabolic risks
+,High body-mass index,DALYs,2010,2010,93609000.0,77107000.0,110600000.0,High body-mass index,Metabolic risks
+,Low bone mineral density,DALYs,2010,2010,5216000.0,4133000.0,6418000.0,Low bone mineral density,Metabolic risks
+,Diet low in fruits,DALYs,2010,2010,104095000.0,81833000.0,124169000.0,Dietary risks,Behavioural risks
+,Diet low in vegetables,DALYs,2010,2010,38559000.0,26006000.0,51658000.0,Dietary risks,Behavioural risks
+,Diet low in whole grains,DALYs,2010,2010,40762000.0,32112000.0,48486000.0,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,DALYs,2010,2010,51289000.0,33482000.0,65959000.0,Dietary risks,Behavioural risks
+,Diet low in milk,DALYs,2010,2010,2101000.0,619000.0,3544000.0,Dietary risks,Behavioural risks
+,Diet high in red meat,DALYs,2010,2010,1853000.0,870000.0,2946000.0,Dietary risks,Behavioural risks
+,Diet high in processed meat,DALYs,2010,2010,20939000.0,6982000.0,33468000.0,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",DALYs,2010,2010,8553000.0,5823000.0,11418000.0,Dietary risks,Behavioural risks
+,Diet low in fiber,DALYs,2010,2010,16452000.0,7401000.0,25783000.0,Dietary risks,Behavioural risks
+,Diet low in calcium,DALYs,2010,2010,2590000.0,1873000.0,3322000.0,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,DALYs,2010,2010,28199000.0,20624000.0,35974000.0,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",DALYs,2010,2010,11680000.0,5360000.0,17798000.0,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,DALYs,2010,2010,11592000.0,8395000.0,14623000.0,Dietary risks,Behavioural risks
+,Diet high in sodium,DALYs,2010,2010,61231000.0,40124000.0,80342000.0,Dietary risks,Behavioural risks
+,Low physical activity,DALYs,2010,2010,69318000.0,58646000.0,80182000.0,Low physical activity,Behavioural risks
+,Occupational risks,DALYs,2010,2010,62488000.0,49471000.0,76240000.0,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,DALYs,2010,2010,2681000.0,1773000.0,3689000.0,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,DALYs,2010,2010,2020000.0,1441000.0,2871000.0,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",DALYs,2010,2010,9142000.0,4377000.0,14250000.0,Occupational risks,Environmental/occupational risks
+,Occupational noise,DALYs,2010,2010,3451000.0,2072000.0,5574000.0,Occupational risks,Environmental/occupational risks
+,Occupational injuries,DALYs,2010,2010,23444000.0,17736000.0,30904000.0,Occupational risks,Environmental/occupational risks
+,Intimate partner violence,DALYs,2010,2010,16794000.0,11373000.0,23087000.0,Intimate partner violence,Behavioural risks
+,All risk factors,Deaths,2013,2013,30839000.0,29719000.0,31949000.0,Other,All risk factors
+,Environmental/occupational risks,Deaths,2013,2013,8181000.0,7651000.0,8726000.0,Other,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",Deaths,2013,2013,1399000.0,1237000.0,1576000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,Deaths,2013,2013,1246000.0,989000.0,1464000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,Deaths,2013,2013,816000.0,707000.0,921000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,No access to handwashing facility,Deaths,2013,2013,517000.0,408000.0,621000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,Deaths,2013,2013,5527000.0,5109000.0,5944000.0,Air pollution,Environmental/occupational risks
+,Ambient particulate matter pollution,Deaths,2013,2013,2926000.0,2777000.0,3066000.0,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,Deaths,2013,2013,2893000.0,2463000.0,3303000.0,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,Deaths,2013,2013,217000.0,161000.0,272000.0,Air pollution,Environmental/occupational risks
+,Other environmental risks,Deaths,2013,2013,945000.0,663000.0,1279000.0,Other environmental risks,Environmental/occupational risks
+,Residential radon,Deaths,2013,2013,92000.0,61000.0,128000.0,Other environmental risks,Environmental/occupational risks
+,Lead exposure,Deaths,2013,2013,853000.0,572000.0,1181000.0,Other environmental risks,Environmental/occupational risks
+,Occupational risks,Deaths,2013,2013,717000.0,641000.0,803000.0,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,Deaths,2013,2013,304000.0,263000.0,341000.0,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,Deaths,2013,2013,52000.0,42000.0,70000.0,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",Deaths,2013,2013,205000.0,164000.0,251000.0,Occupational risks,Environmental/occupational risks
+,Occupational injuries,Deaths,2013,2013,159000.0,127000.0,206000.0,Occupational risks,Environmental/occupational risks
+,Behavioural risks,Deaths,2013,2013,21909000.0,20446000.0,23383000.0,Other,Behavioural risks
+,Child and maternal malnutrition,Deaths,2013,2013,1665000.0,1487000.0,1840000.0,Child and maternal malnutrition,Behavioural risks
+,Childhood undernutrition,Deaths,2013,2013,1327000.0,1169000.0,1481000.0,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,Deaths,2013,2013,501000.0,318000.0,697000.0,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,Deaths,2013,2013,199000.0,137000.0,275000.0,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,Deaths,2013,2013,85000.0,51000.0,125000.0,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,Deaths,2013,2013,66000.0,4000.0,153000.0,Child and maternal malnutrition,Behavioural risks
+,Tobacco,Deaths,2013,2013,6149000.0,5587000.0,6762000.0,Tobacco,Behavioural risks
+,Smoking,Deaths,2013,2013,5818000.0,5258000.0,6435000.0,Tobacco,Behavioural risks
+,Second-hand smoke,Deaths,2013,2013,331000.0,308000.0,355000.0,Tobacco,Behavioural risks
+,High alcohol use,Deaths,2013,2013,2786000.0,2146000.0,3287000.0,High alcohol use,Behavioural risks
+,Drug use,Deaths,2013,2013,429000.0,381000.0,480000.0,Drug use,Behavioural risks
+,Dietary risks,Deaths,2013,2013,11274000.0,9656000.0,12957000.0,Dietary risks,Behavioural risks
+,Diet low in fruits,Deaths,2013,2013,3413000.0,2207000.0,4546000.0,Dietary risks,Behavioural risks
+,Diet low in vegetables,Deaths,2013,2013,1782000.0,1405000.0,2173000.0,Dietary risks,Behavioural risks
+,Diet low in whole grains,Deaths,2013,2013,2049000.0,1575000.0,2525000.0,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,Deaths,2013,2013,1195000.0,816000.0,1578000.0,Dietary risks,Behavioural risks
+,Diet low in milk,Deaths,2013,2013,105000.0,30000.0,177000.0,Dietary risks,Behavioural risks
+,Diet high in red meat,Deaths,2013,2013,102000.0,89000.0,116000.0,Dietary risks,Behavioural risks
+,Diet high in processed meat,Deaths,2013,2013,644000.0,467000.0,881000.0,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",Deaths,2013,2013,126000.0,96000.0,166000.0,Dietary risks,Behavioural risks
+,Diet low in fiber,Deaths,2013,2013,1009000.0,817000.0,1207000.0,Dietary risks,Behavioural risks
+,Diet low in calcium,Deaths,2013,2013,141000.0,122000.0,160000.0,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,Deaths,2013,2013,1031000.0,769000.0,1304000.0,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",Deaths,2013,2013,581000.0,512000.0,651000.0,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,Deaths,2013,2013,405000.0,218000.0,645000.0,Dietary risks,Behavioural risks
+,Diet high in sodium,Deaths,2013,2013,3689000.0,2028000.0,5810000.0,Dietary risks,Behavioural risks
+,Intimate partner violence,Deaths,2013,2013,197000.0,146000.0,251000.0,Intimate partner violence,Behavioural risks
+,Unsafe sex,Deaths,2013,2013,1481000.0,1383000.0,1621000.0,Unsafe sex,Behavioural risks
+,Low physical activity,Deaths,2013,2013,2182000.0,1858000.0,2555000.0,Low physical activity,Behavioural risks
+,Metabolic risks,Deaths,2013,2013,15723000.0,14719000.0,16767000.0,Other,Metabolic risks
+,High fasting plasma glucose,Deaths,2013,2013,4014000.0,3499000.0,4641000.0,High fasting plasma glucose,Metabolic risks
+,High LDL cholesterol*,Deaths,2013,2013,2830000.0,1966000.0,4053000.0,High LDL cholesterol*,Metabolic risks
+,High systolic blood pressure,Deaths,2013,2013,10364000.0,9178000.0,11544000.0,High systolic blood pressure,Metabolic risks
+,High body-mass index,Deaths,2013,2013,4444000.0,3716000.0,5169000.0,High body-mass index,Metabolic risks
+,Low bone mineral density,Deaths,2013,2013,334000.0,285000.0,361000.0,Low bone mineral density,Metabolic risks
+,Kidney dysfunction*,Deaths,2013,2013,2164000.0,1960000.0,2387000.0,Kidney dysfunction*,Metabolic risks
+,All risk factors,DALYs,2013,2013,996554000.0,927157000.0,1072340000.0,Other,All risk factors
+,Environmental/occupational risks,DALYs,2013,2013,289517000.0,265778000.0,312094000.0,Other,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",DALYs,2013,2013,83867000.0,72879000.0,95568000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,DALYs,2013,2013,75125000.0,59952000.0,89756000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,DALYs,2013,2013,49039000.0,41770000.0,56227000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,No access to handwashing facility,DALYs,2013,2013,30721000.0,24281000.0,37626000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,DALYs,2013,2013,141456000.0,130071000.0,153652000.0,Air pollution,Environmental/occupational risks
+,Ambient particulate matter pollution,DALYs,2013,2013,69673000.0,65585000.0,73552000.0,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,DALYs,2013,2013,81087000.0,70025000.0,92802000.0,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,DALYs,2013,2013,5073000.0,3576000.0,6620000.0,Air pollution,Environmental/occupational risks
+,Other environmental risks,DALYs,2013,2013,18822000.0,13300000.0,25407000.0,Other environmental risks,Environmental/occupational risks
+,Residential radon,DALYs,2013,2013,1979000.0,1331000.0,2768000.0,Other environmental risks,Environmental/occupational risks
+,Lead exposure,DALYs,2013,2013,16843000.0,11494000.0,23505000.0,Other environmental risks,Environmental/occupational risks
+,Occupational risks,DALYs,2013,2013,55352000.0,44589000.0,67890000.0,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,DALYs,2013,2013,5803000.0,5076000.0,6526000.0,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,DALYs,2013,2013,2771000.0,2227000.0,3521000.0,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",DALYs,2013,2013,8802000.0,7012000.0,10740000.0,Occupational risks,Environmental/occupational risks
+,Occupational noise,DALYs,2013,2013,7119000.0,4549000.0,10329000.0,Occupational risks,Environmental/occupational risks
+,Occupational injuries,DALYs,2013,2013,9947000.0,7886000.0,12927000.0,Occupational risks,Environmental/occupational risks
+,Occupational ergonomic factors,DALYs,2013,2013,21109000.0,14206000.0,29304000.0,Occupational risks,Environmental/occupational risks
+,Behavioural risks,DALYs,2013,2013,717608000.0,667831000.0,771924000.0,Other,Behavioural risks
+,Child and maternal malnutrition,DALYs,2013,2013,176859000.0,156431000.0,199831000.0,Child and maternal malnutrition,Behavioural risks
+,Childhood undernutrition,DALYs,2013,2013,119802000.0,106565000.0,133359000.0,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,DALYs,2013,2013,44203000.0,28205000.0,61650000.0,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,DALYs,2013,2013,44651000.0,31844000.0,62304000.0,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,DALYs,2013,2013,7875000.0,4758000.0,11541000.0,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,DALYs,2013,2013,5996000.0,745000.0,13267000.0,Child and maternal malnutrition,Behavioural risks
+,Tobacco,DALYs,2013,2013,143512000.0,129979000.0,159147000.0,Tobacco,Behavioural risks
+,Smoking,DALYs,2013,2013,134196000.0,120872000.0,149759000.0,Tobacco,Behavioural risks
+,Second-hand smoke,DALYs,2013,2013,9316000.0,8417000.0,10277000.0,Tobacco,Behavioural risks
+,High alcohol use,DALYs,2013,2013,99278000.0,81295000.0,113616000.0,High alcohol use,Behavioural risks
+,Drug use,DALYs,2013,2013,28578000.0,24505000.0,33104000.0,Drug use,Behavioural risks
+,Dietary risks,DALYs,2013,2013,241351000.0,209634000.0,273339000.0,Dietary risks,Behavioural risks
+,Diet low in fruits,DALYs,2013,2013,74797000.0,49434000.0,98791000.0,Dietary risks,Behavioural risks
+,Diet low in vegetables,DALYs,2013,2013,39176000.0,31050000.0,47658000.0,Dietary risks,Behavioural risks
+,Diet low in whole grains,DALYs,2013,2013,51411000.0,39500000.0,63286000.0,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,DALYs,2013,2013,27109000.0,18408000.0,36030000.0,Dietary risks,Behavioural risks
+,Diet low in milk,DALYs,2013,2013,2218000.0,633000.0,3713000.0,Dietary risks,Behavioural risks
+,Diet high in red meat,DALYs,2013,2013,4147000.0,3349000.0,5026000.0,Dietary risks,Behavioural risks
+,Diet high in processed meat,DALYs,2013,2013,17380000.0,12677000.0,23925000.0,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",DALYs,2013,2013,6190000.0,4665000.0,8142000.0,Dietary risks,Behavioural risks
+,Diet low in fiber,DALYs,2013,2013,22098000.0,17996000.0,26349000.0,Dietary risks,Behavioural risks
+,Diet low in calcium,DALYs,2013,2013,2876000.0,2507000.0,3258000.0,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,DALYs,2013,2013,22448000.0,16887000.0,28205000.0,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",DALYs,2013,2013,12670000.0,11103000.0,14342000.0,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,DALYs,2013,2013,9875000.0,5503000.0,15228000.0,Dietary risks,Behavioural risks
+,Diet high in sodium,DALYs,2013,2013,74327000.0,40615000.0,116717000.0,Dietary risks,Behavioural risks
+,Intimate partner violence,DALYs,2013,2013,14454000.0,11027000.0,18164000.0,Intimate partner violence,Behavioural risks
+,Unsafe sex,DALYs,2013,2013,73282000.0,67015000.0,82478000.0,Unsafe sex,Behavioural risks
+,Low physical activity,DALYs,2013,2013,45143000.0,38328000.0,52671000.0,Low physical activity,Behavioural risks
+,Metabolic risks,DALYs,2013,2013,373817000.0,343978000.0,403889000.0,Other,Metabolic risks
+,High fasting plasma glucose,DALYs,2013,2013,116893000.0,101592000.0,133368000.0,High fasting plasma glucose,Metabolic risks
+,High LDL cholesterol*,DALYs,2013,2013,62715000.0,49244000.0,80986000.0,High LDL cholesterol*,Metabolic risks
+,High systolic blood pressure,DALYs,2013,2013,208129000.0,188307000.0,227509000.0,High systolic blood pressure,Metabolic risks
+,High body-mass index,DALYs,2013,2013,134048000.0,112420000.0,156787000.0,High body-mass index,Metabolic risks
+,Low bone mineral density,DALYs,2013,2013,14249000.0,11658000.0,17500000.0,Low bone mineral density,Metabolic risks
+,Kidney dysfunction*,DALYs,2013,2013,51906000.0,46246000.0,57573000.0,Kidney dysfunction*,Metabolic risks
+,All risk factors,Deaths,2015,2015,32234000.0,31456000.0,33035000.0,Other,All risk factors
+,Environmental/occupational risks,Deaths,2015,2015,9315000.0,8523000.0,10145000.0,Other,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",Deaths,2015,2015,1766000.0,1586000.0,1944000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,Deaths,2015,2015,1251000.0,1008000.0,1428000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,Deaths,2015,2015,808000.0,727000.0,895000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,No access to handwashing facility,Deaths,2015,2015,927000.0,760000.0,1082000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,Deaths,2015,2015,6485000.0,5708000.0,7292000.0,Air pollution,Environmental/occupational risks
+,Ambient particulate matter pollution,Deaths,2015,2015,4241000.0,3698000.0,4777000.0,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,Deaths,2015,2015,2854000.0,2179000.0,3587000.0,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,Deaths,2015,2015,254000.0,97000.0,422000.0,Air pollution,Environmental/occupational risks
+,Other environmental risks,Deaths,2015,2015,558000.0,293000.0,883000.0,Other environmental risks,Environmental/occupational risks
+,Residential radon,Deaths,2015,2015,64000.0,42000.0,86000.0,Other environmental risks,Environmental/occupational risks
+,Lead exposure,Deaths,2015,2015,495000.0,237000.0,815000.0,Other environmental risks,Environmental/occupational risks
+,Occupational risks,Deaths,2015,2015,1086000.0,1013000.0,1165000.0,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,Deaths,2015,2015,489000.0,461000.0,517000.0,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,Deaths,2015,2015,42000.0,35000.0,48000.0,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",Deaths,2015,2015,357000.0,293000.0,419000.0,Occupational risks,Environmental/occupational risks
+,Occupational injuries,Deaths,2015,2015,204000.0,191000.0,232000.0,Occupational risks,Environmental/occupational risks
+,Behavioural risks,Deaths,2015,2015,22744000.0,21408000.0,24126000.0,Other,Behavioural risks
+,Child and maternal malnutrition,Deaths,2015,2015,1414000.0,1308000.0,1533000.0,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,Deaths,2015,2015,391000.0,258000.0,550000.0,Child and maternal malnutrition,Behavioural risks
+,Childhood undernutrition,Deaths,2015,2015,1265000.0,1160000.0,1383000.0,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,Deaths,2015,2015,84000.0,58000.0,114000.0,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,Deaths,2015,2015,83000.0,50000.0,119000.0,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,Deaths,2015,2015,55000.0,3000.0,125000.0,Child and maternal malnutrition,Behavioural risks
+,Tobacco,Deaths,2015,2015,7165000.0,6544000.0,7775000.0,Tobacco,Behavioural risks
+,Smoking,Deaths,2015,2015,6402000.0,5749000.0,7037000.0,Tobacco,Behavioural risks
+,Second-hand smoke,Deaths,2015,2015,886000.0,695000.0,1091000.0,Tobacco,Behavioural risks
+,High alcohol use,Deaths,2015,2015,2306000.0,1986000.0,2608000.0,High alcohol use,Behavioural risks
+,Drug use,Deaths,2015,2015,489000.0,439000.0,537000.0,Drug use,Behavioural risks
+,Dietary risks,Deaths,2015,2015,12058000.0,10615000.0,13538000.0,Dietary risks,Behavioural risks
+,Diet low in fruits,Deaths,2015,2015,2924000.0,1905000.0,4018000.0,Dietary risks,Behavioural risks
+,Diet low in vegetables,Deaths,2015,2015,1994000.0,1024000.0,3121000.0,Dietary risks,Behavioural risks
+,Diet low in whole grains,Deaths,2015,2015,3142000.0,2215000.0,4189000.0,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,Deaths,2015,2015,2131000.0,1354000.0,3011000.0,Dietary risks,Behavioural risks
+,Diet low in milk,Deaths,2015,2015,126000.0,44000.0,212000.0,Dietary risks,Behavioural risks
+,Diet high in red meat,Deaths,2015,2015,43000.0,19000.0,69000.0,Dietary risks,Behavioural risks
+,Diet high in processed meat,Deaths,2015,2015,541000.0,156000.0,914000.0,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",Deaths,2015,2015,39000.0,27000.0,55000.0,Dietary risks,Behavioural risks
+,Diet low in fiber,Deaths,2015,2015,387000.0,183000.0,670000.0,Dietary risks,Behavioural risks
+,Diet low in calcium,Deaths,2015,2015,160000.0,95000.0,232000.0,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,Deaths,2015,2015,1472000.0,616000.0,2378000.0,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",Deaths,2015,2015,388000.0,158000.0,610000.0,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,Deaths,2015,2015,448000.0,190000.0,827000.0,Dietary risks,Behavioural risks
+,Diet high in sodium,Deaths,2015,2015,4130000.0,2446000.0,6419000.0,Dietary risks,Behavioural risks
+,Intimate partner violence,Deaths,2015,2015,186000.0,148000.0,224000.0,Intimate partner violence,Behavioural risks
+,Unsafe sex,Deaths,2015,2015,1452000.0,1381000.0,1541000.0,Unsafe sex,Behavioural risks
+,Low physical activity,Deaths,2015,2015,1605000.0,1265000.0,1956000.0,Low physical activity,Behavioural risks
+,Metabolic risks,Deaths,2015,2015,16860000.0,16021000.0,17697000.0,Other,Metabolic risks
+,High fasting plasma glucose,Deaths,2015,2015,5240000.0,4547000.0,6217000.0,High fasting plasma glucose,Metabolic risks
+,High LDL cholesterol*,Deaths,2015,2015,4313000.0,3324000.0,5512000.0,High LDL cholesterol*,Metabolic risks
+,High systolic blood pressure,Deaths,2015,2015,10704000.0,9601000.0,11787000.0,High systolic blood pressure,Metabolic risks
+,High body-mass index,Deaths,2015,2015,3960000.0,2728000.0,5332000.0,High body-mass index,Metabolic risks
+,Low bone mineral density,Deaths,2015,2015,361000.0,325000.0,381000.0,Low bone mineral density,Metabolic risks
+,Kidney dysfunction*,Deaths,2015,2015,2426000.0,2290000.0,2559000.0,Kidney dysfunction*,Metabolic risks
+,All risk factors,DALYs,2015,2015,1015470000.0,953300000.0,1084249000.0,Other,All risk factors
+,Environmental/occupational risks,DALYs,2015,2015,319569000.0,295706000.0,344884000.0,Other,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",DALYs,2015,2015,95305000.0,85818000.0,105821000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,DALYs,2015,2015,71745000.0,57707000.0,83257000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,DALYs,2015,2015,46275000.0,41065000.0,51818000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,No access to handwashing facility,DALYs,2015,2015,47271000.0,39034000.0,55164000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,DALYs,2015,2015,167290000.0,148167000.0,185780000.0,Air pollution,Environmental/occupational risks
+,Ambient particulate matter pollution,DALYs,2015,2015,103066000.0,90830000.0,115073000.0,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,DALYs,2015,2015,85644000.0,66659000.0,106136000.0,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,DALYs,2015,2015,4116000.0,1577000.0,6789000.0,Air pollution,Environmental/occupational risks
+,Other environmental risks,DALYs,2015,2015,10673000.0,5516000.0,16975000.0,Other environmental risks,Environmental/occupational risks
+,Residential radon,DALYs,2015,2015,1386000.0,941000.0,1871000.0,Other environmental risks,Environmental/occupational risks
+,Lead exposure,DALYs,2015,2015,9287000.0,4200000.0,15594000.0,Other environmental risks,Environmental/occupational risks
+,Occupational risks,DALYs,2015,2015,63615000.0,53616000.0,75415000.0,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,DALYs,2015,2015,9832000.0,9318000.0,10385000.0,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,DALYs,2015,2015,2621000.0,2081000.0,3223000.0,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",DALYs,2015,2015,8787000.0,7598000.0,9987000.0,Occupational risks,Environmental/occupational risks
+,Occupational noise,DALYs,2015,2015,10875000.0,7410000.0,15038000.0,Occupational risks,Environmental/occupational risks
+,Occupational injuries,DALYs,2015,2015,13492000.0,12006000.0,15545000.0,Occupational risks,Environmental/occupational risks
+,Occupational ergonomic factors,DALYs,2015,2015,18573000.0,12979000.0,25759000.0,Occupational risks,Environmental/occupational risks
+,Behavioural risks,DALYs,2015,2015,745463000.0,698273000.0,797964000.0,Other,Behavioural risks
+,Child and maternal malnutrition,DALYs,2015,2015,172120000.0,151792000.0,196176000.0,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,DALYs,2015,2015,34030000.0,22497000.0,47771000.0,Child and maternal malnutrition,Behavioural risks
+,Childhood undernutrition,DALYs,2015,2015,113280000.0,103941000.0,123401000.0,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,DALYs,2015,2015,52870000.0,36518000.0,74437000.0,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,DALYs,2015,2015,7611000.0,4693000.0,10841000.0,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,DALYs,2015,2015,4967000.0,600000.0,10853000.0,Child and maternal malnutrition,Behavioural risks
+,Tobacco,DALYs,2015,2015,170889000.0,156216000.0,185988000.0,Tobacco,Behavioural risks
+,Smoking,DALYs,2015,2015,148623000.0,134236000.0,163140000.0,Tobacco,Behavioural risks
+,Second-hand smoke,DALYs,2015,2015,25212000.0,19297000.0,31653000.0,Tobacco,Behavioural risks
+,High alcohol use,DALYs,2015,2015,84990000.0,77180000.0,93010000.0,High alcohol use,Behavioural risks
+,Drug use,DALYs,2015,2015,27831000.0,24437000.0,31171000.0,Drug use,Behavioural risks
+,Dietary risks,DALYs,2015,2015,264411000.0,236098000.0,294989000.0,Dietary risks,Behavioural risks
+,Diet low in fruits,DALYs,2015,2015,72590000.0,48514000.0,98667000.0,Dietary risks,Behavioural risks
+,Diet low in vegetables,DALYs,2015,2015,44632000.0,23572000.0,68817000.0,Dietary risks,Behavioural risks
+,Diet low in whole grains,DALYs,2015,2015,79813000.0,57571000.0,104238000.0,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,DALYs,2015,2015,49411000.0,32716000.0,68196000.0,Dietary risks,Behavioural risks
+,Diet low in milk,DALYs,2015,2015,2603000.0,897000.0,4382000.0,Dietary risks,Behavioural risks
+,Diet high in red meat,DALYs,2015,2015,1752000.0,638000.0,2957000.0,Dietary risks,Behavioural risks
+,Diet high in processed meat,DALYs,2015,2015,14907000.0,6450000.0,23452000.0,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",DALYs,2015,2015,1449000.0,1004000.0,2059000.0,Dietary risks,Behavioural risks
+,Diet low in fiber,DALYs,2015,2015,8393000.0,3908000.0,14657000.0,Dietary risks,Behavioural risks
+,Diet low in calcium,DALYs,2015,2015,3284000.0,1966000.0,4755000.0,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,DALYs,2015,2015,31310000.0,13272000.0,49823000.0,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",DALYs,2015,2015,8270000.0,3534000.0,12996000.0,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,DALYs,2015,2015,11578000.0,5138000.0,20322000.0,Dietary risks,Behavioural risks
+,Diet high in sodium,DALYs,2015,2015,83008000.0,49326000.0,127452000.0,Dietary risks,Behavioural risks
+,Intimate partner violence,DALYs,2015,2015,13803000.0,11078000.0,16954000.0,Intimate partner violence,Behavioural risks
+,Unsafe sex,DALYs,2015,2015,79451000.0,74248000.0,85532000.0,Unsafe sex,Behavioural risks
+,Low physical activity,DALYs,2015,2015,34603000.0,26905000.0,42282000.0,Low physical activity,Behavioural risks
+,Metabolic risks,DALYs,2015,2015,381845000.0,357846000.0,409436000.0,Other,Metabolic risks
+,High fasting plasma glucose,DALYs,2015,2015,143076000.0,125125000.0,163477000.0,High fasting plasma glucose,Metabolic risks
+,High LDL cholesterol*,DALYs,2015,2015,88687000.0,74558000.0,105681000.0,High LDL cholesterol*,Metabolic risks
+,High systolic blood pressure,DALYs,2015,2015,211816000.0,192712000.0,231114000.0,High systolic blood pressure,Metabolic risks
+,High body-mass index,DALYs,2015,2015,120132000.0,83829000.0,158409000.0,High body-mass index,Metabolic risks
+,Low bone mineral density,DALYs,2015,2015,8810000.0,7565000.0,10270000.0,Low bone mineral density,Metabolic risks
+,Kidney dysfunction*,DALYs,2015,2015,54433000.0,50890000.0,57912000.0,Kidney dysfunction*,Metabolic risks
+0.0,All risk factors,Deaths,2016,2016,32756240.0,31855630.0,33694290.0,Other,All risk factors
+1.0,Environmental/occupational risks,Deaths,2016,2016,9293430.0,8663330.0,9987210.0,Other,Environmental/occupational risks
+2.0,"Unsafe water, sanitation, and handwashing",Deaths,2016,2016,1660770.0,1253690.0,2312040.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe water source,Deaths,2016,2016,1160160.0,515929.99999999994,1858370.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe sanitation,Deaths,2016,2016,898240.0,662820.0,1307680.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,No access to handwashing facility,Deaths,2016,2016,750340.0,432560.0,1131560.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+2.0,Air pollution,Deaths,2016,2016,6116400.0,5631620.0,6602600.0,Air pollution,Environmental/occupational risks
+3.0,Ambient particulate matter pollution,Deaths,2016,2016,4092690.0,3624440.0,4575020.0,Air pollution,Environmental/occupational risks
+3.0,Household air pollution from solid fuels,Deaths,2016,2016,2576360.0,2215950.0,2968890.0,Air pollution,Environmental/occupational risks
+3.0,Ambient ozone pollution,Deaths,2016,2016,233640.0,90110.0,385300.0,Air pollution,Environmental/occupational risks
+2.0,Other environmental risks,Deaths,2016,2016,597740.0,328830.0,923470.0,Other environmental risks,Environmental/occupational risks
+3.0,Residential radon,Deaths,2016,2016,57690.0,38120.0,77920.0,Other environmental risks,Environmental/occupational risks
+3.0,Lead exposure,Deaths,2016,2016,540040.0,269070.0,868970.0,Other environmental risks,Environmental/occupational risks
+2.0,Occupational risks,Deaths,2016,2016,1528020.0,1383550.0,1680970.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational carcinogens,Deaths,2016,2016,746540.0,624130.0,874380.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational asthmagens,Deaths,2016,2016,37570.0,28360.0,47940.0,Occupational risks,Environmental/occupational risks
+3.0,"Occupational particulate matter, gases, and fumes",Deaths,2016,2016,424270.0,349980.0,507550.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational injuries,Deaths,2016,2016,335710.0,328640.0,343270.0,Occupational risks,Environmental/occupational risks
+1.0,Behavioural risks,Deaths,2016,2016,21830190.0,20450240.0,23314120.0,Other,Behavioural risks
+2.0,Child and maternal malnutrition,Deaths,2016,2016,2736960.0,2573810.0,2904340.0,Child and maternal malnutrition,Behavioural risks
+3.0,Suboptimal breastfeeding,Deaths,2016,2016,152480.0,124060.0,183650.0,Child and maternal malnutrition,Behavioural risks
+3.0,Child growth failure,Deaths,2016,2016,1010580.0,908980.0,1119900.0,Child and maternal malnutrition,Behavioural risks
+3.0,Low birth weight and short gestation,Deaths,2016,2016,1673600.0,1589230.0,1758450.0,Child and maternal malnutrition,Behavioural risks
+3.0,Iron deficiency,Deaths,2016,2016,20950.0,9790.0,33310.0,Child and maternal malnutrition,Behavioural risks
+3.0,Vitamin A deficiency,Deaths,2016,2016,42180.0,24160.0,65390.0,Child and maternal malnutrition,Behavioural risks
+3.0,Zinc deficiency,Deaths,2016,2016,25090.0,1320.0,69470.0,Child and maternal malnutrition,Behavioural risks
+2.0,Tobacco,Deaths,2016,2016,7131380.0,6503230.0,7780890.0,Tobacco,Behavioural risks
+3.0,Smoking,Deaths,2016,2016,6321100.0,5673660.0,6962350.0,Tobacco,Behavioural risks
+3.0,Second-hand smoke,Deaths,2016,2016,883930.0,715080.0,1085100.0,Tobacco,Behavioural risks
+3.0,High alcohol use,Deaths,2016,2016,2814640.0,2371240.0,3292680.0,High alcohol use,Behavioural risks
+3.0,Drug use,Deaths,2016,2016,451820.0,420400.0,486770.0,Drug use,Behavioural risks
+2.0,Dietary risks,Deaths,2016,2016,10301540.0,8795360.0,11912630.0,Dietary risks,Behavioural risks
+3.0,Diet low in fruits,Deaths,2016,2016,2361200.0,1446100.0,3447830.0,Dietary risks,Behavioural risks
+3.0,Diet low in vegetables,Deaths,2016,2016,1519650.0,717790.0,2507050.0,Dietary risks,Behavioural risks
+3.0,Diet low in legumes,Deaths,2016,2016,672470.0,288670.0,1113670.0,Dietary risks,Behavioural risks
+3.0,Diet low in whole grains,Deaths,2016,2016,2498690.0,1662920.0,3507350.0,Dietary risks,Behavioural risks
+3.0,Diet low in nuts and seeds,Deaths,2016,2016,2155040.0,1349070.0,2965360.0,Dietary risks,Behavioural risks
+3.0,Diet low in milk,Deaths,2016,2016,123210.0,45000.0,213850.0,Dietary risks,Behavioural risks
+3.0,Diet high in red meat,Deaths,2016,2016,31880.0,15080.0,51440.0,Dietary risks,Behavioural risks
+3.0,Diet high in processed meat,Deaths,2016,2016,139620.0,29840.0,271400.0,Dietary risks,Behavioural risks
+3.0,"Diet high in 
+sugar sweetened beverages",Deaths,2016,2016,22560.0,15330.0,33360.0,Dietary risks,Behavioural risks
+3.0,Diet low in fiber,Deaths,2016,2016,877850.0,502370.0,1337530.0,Dietary risks,Behavioural risks
+3.0,Diet low in calcium,Deaths,2016,2016,159880.0,101070.0,232620.0,Dietary risks,Behavioural risks
+3.0,Diet low in seafood omega-3 fatty acids,Deaths,2016,2016,1538760.0,641930.0,2518120.0,Dietary risks,Behavioural risks
+3.0,"Diet low in 
+polyunsaturated fatty acids",Deaths,2016,2016,404130.0,167800.0,628840.0,Dietary risks,Behavioural risks
+3.0,Diet high in trans fatty acids,Deaths,2016,2016,223640.0,62820.0,513159.99999999994,Dietary risks,Behavioural risks
+3.0,Diet high in sodium,Deaths,2016,2016,2310470.0,654700.0,4498830.0,Dietary risks,Behavioural risks
+3.0,Intimate partner violence,Deaths,2016,2016,65090.0,44850.0,85840.0,Intimate partner violence,Behavioural risks
+2.0,Unsafe sex,Deaths,2016,2016,1100900.0,1048420.0000000001,1148400.0,Unsafe sex,Behavioural risks
+2.0,Low physical activity,Deaths,2016,2016,1373340.0,717650.0,2084159.9999999998,Low physical activity,Behavioural risks
+1.0,Metabolic risks,Deaths,2016,2016,17493530.0,16427650.000000002,18524260.0,Other,Metabolic risks
+2.0,High fasting plasma glucose,Deaths,2016,2016,5612450.0,4457290.0,6987540.0,High fasting plasma glucose,Metabolic risks
+2.0,High LDL cholesterol*,Deaths,2016,2016,4392510.0,3374220.0,5619870.0,High LDL cholesterol*,Metabolic risks
+2.0,High systolic blood pressure,Deaths,2016,2016,10455860.0,9381880.0,11507490.0,High systolic blood pressure,Metabolic risks
+2.0,High body-mass index,Deaths,2016,2016,4525100.0,2867220.0,6434240.0,High body-mass index,Metabolic risks
+2.0,Low bone mineral density,Deaths,2016,2016,441230.0,374930.0,466700.0,Low bone mineral density,Metabolic risks
+2.0,Kidney dysfunction*,Deaths,2016,2016,2554210.0,2346590.0,2766510.0,Kidney dysfunction*,Metabolic risks
+0.0,All risk factors,DALYs,2016,2016,1080115720.0,1017412550.0,1149380020.0,Other,All risk factors
+1.0,Environmental/occupational risks,DALYs,2016,2016,311970970.0,290297060.0,335402790.0,Other,Environmental/occupational risks
+2.0,"Unsafe water, sanitation, and handwashing",DALYs,2016,2016,75796040.0,61906380.0,93460540.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe water source,DALYs,2016,2016,52440650.0,23552840.0,73900440.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe sanitation,DALYs,2016,2016,40746600.0,32803830.0,52138770.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,No access to handwashing facility,DALYs,2016,2016,35254900.0,20869210.0,49149440.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+2.0,Air pollution,DALYs,2016,2016,162795900.0,150578260.0,175615700.0,Air pollution,Environmental/occupational risks
+3.0,Ambient particulate matter pollution,DALYs,2016,2016,105674020.0,94523780.0,117808560.0,Air pollution,Environmental/occupational risks
+3.0,Household air pollution from solid fuels,DALYs,2016,2016,77161350.0,66086369.99999999,88048870.0,Air pollution,Environmental/occupational risks
+3.0,Ambient ozone pollution,DALYs,2016,2016,3796830.0,1463890.0,6257230.0,Air pollution,Environmental/occupational risks
+2.0,Other environmental risks,DALYs,2016,2016,15128920.0,8891770.0,22939090.0,Other environmental risks,Environmental/occupational risks
+3.0,Residential radon,DALYs,2016,2016,1255370.0,847290.0,1677750.0,Other environmental risks,Environmental/occupational risks
+3.0,Lead exposure,DALYs,2016,2016,13873550.0,7578920.0,21565040.0,Other environmental risks,Environmental/occupational risks
+2.0,Occupational risks,DALYs,2016,2016,75925430.0,66060970.0,86257100.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational carcinogens,DALYs,2016,2016,20682730.0,17015370.0,24682770.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational asthmagens,DALYs,2016,2016,2339480.0,1860900.0,2923320.0,Occupational risks,Environmental/occupational risks
+3.0,"Occupational particulate matter, gases, and fumes",DALYs,2016,2016,9377100.0,7972610.0,10789560.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational noise,DALYs,2016,2016,7108280.0,4978560.0,9802690.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational injuries,DALYs,2016,2016,21774600.0,19810660.0,24090160.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational ergonomic factors,DALYs,2016,2016,15479930.0,10733370.0,20772450.0,Occupational risks,Environmental/occupational risks
+1.0,Behavioural risks,DALYs,2016,2016,781103690.0,737052730.0,830058540.0,Other,Behavioural risks
+2.0,Child and maternal malnutrition,DALYs,2016,2016,275068980.0,255117960.0,296600820.0,Child and maternal malnutrition,Behavioural risks
+3.0,Suboptimal breastfeeding,DALYs,2016,2016,13373250.0,10878180.0,16087130.0,Child and maternal malnutrition,Behavioural risks
+3.0,Child growth failure,DALYs,2016,2016,91199770.0,82272240.0,100948470.0,Child and maternal malnutrition,Behavioural risks
+3.0,Low birth weight and short gestation,DALYs,2016,2016,144947750.0,137645540.0,152301770.0,Child and maternal malnutrition,Behavioural risks
+3.0,Iron deficiency,DALYs,2016,2016,35849870.0,24052890.0,50796920.0,Child and maternal malnutrition,Behavioural risks
+3.0,Vitamin A deficiency,DALYs,2016,2016,3979050.0,2357300.0,6000150.0,Child and maternal malnutrition,Behavioural risks
+3.0,Zinc deficiency,DALYs,2016,2016,2245650.0,213630.0,5993340.0,Child and maternal malnutrition,Behavioural risks
+2.0,Tobacco,DALYs,2016,2016,177302310.0,162327840.0,194250390.0,Tobacco,Behavioural risks
+3.0,Smoking,DALYs,2016,2016,155065750.0,140025420.0,170602150.0,Tobacco,Behavioural risks
+3.0,Second-hand smoke,DALYs,2016,2016,23761450.0,18439150.0,29543700.0,Tobacco,Behavioural risks
+3.0,High alcohol use,DALYs,2016,2016,99204890.0,88310440.0,111168340.0,High alcohol use,Behavioural risks
+3.0,Drug use,DALYs,2016,2016,31836260.0,27445880.0,36580020.0,Drug use,Behavioural risks
+2.0,Dietary risks,DALYs,2016,2016,229065540.0,197533690.0,262533950.0,Dietary risks,Behavioural risks
+3.0,Diet low in fruits,DALYs,2016,2016,60982390.0,38806060.0,87349090.0,Dietary risks,Behavioural risks
+3.0,Diet low in vegetables,DALYs,2016,2016,35489090.0,17454480.0,57174790.0,Dietary risks,Behavioural risks
+3.0,Diet low in legumes,DALYs,2016,2016,14214450.0,6113490.0,23571090.0,Dietary risks,Behavioural risks
+3.0,Diet low in whole grains,DALYs,2016,2016,62596110.0,42330990.0,86426660.0,Dietary risks,Behavioural risks
+3.0,Diet low in nuts and seeds,DALYs,2016,2016,49492970.0,32430010.0,66636039.99999999,Dietary risks,Behavioural risks
+3.0,Diet low in milk,DALYs,2016,2016,2581500.0,930450.0,4435440.0,Dietary risks,Behavioural risks
+3.0,Diet high in red meat,DALYs,2016,2016,1247330.0,508190.0,2077330.0,Dietary risks,Behavioural risks
+3.0,Diet high in processed meat,DALYs,2016,2016,3196040.0,1091350.0,5836230.0,Dietary risks,Behavioural risks
+3.0,"Diet high in 
+sugar sweetened beverages",DALYs,2016,2016,779510.0,523900.0,1145180.0,Dietary risks,Behavioural risks
+3.0,Diet low in fiber,DALYs,2016,2016,20119470.0,11653460.0,30430150.0,Dietary risks,Behavioural risks
+3.0,Diet low in calcium,DALYs,2016,2016,3353070.0,2127080.0,4832470.0,Dietary risks,Behavioural risks
+3.0,Diet low in seafood omega-3 fatty acids,DALYs,2016,2016,33347839.999999996,14222640.0,53678050.0,Dietary risks,Behavioural risks
+3.0,"Diet low in 
+polyunsaturated fatty acids",DALYs,2016,2016,8351809.999999999,3443290.0,12916370.0,Dietary risks,Behavioural risks
+3.0,Diet high in trans fatty acids,DALYs,2016,2016,5111020.0,1348610.0,11683020.0,Dietary risks,Behavioural risks
+3.0,Diet high in sodium,DALYs,2016,2016,47567080.0,14436690.0,92411610.0,Dietary risks,Behavioural risks
+3.0,Intimate partner violence,DALYs,2016,2016,5575290.0,4224540.0,7079580.0,Intimate partner violence,Behavioural risks
+2.0,Unsafe sex,DALYs,2016,2016,54603030.0,51340060.0,58075620.0,Unsafe sex,Behavioural risks
+2.0,Low physical activity,DALYs,2016,2016,24315860.0,12811320.0,36604690.0,Low physical activity,Behavioural risks
+1.0,Metabolic risks,DALYs,2016,2016,401813920.0,372407650.0,434394060.0,Other,Metabolic risks
+2.0,High fasting plasma glucose,DALYs,2016,2016,144088580.0,119872600.0,171585770.0,High fasting plasma glucose,Metabolic risks
+2.0,High LDL cholesterol*,DALYs,2016,2016,93844030.0,78027310.0,111266480.0,High LDL cholesterol*,Metabolic risks
+2.0,High systolic blood pressure,DALYs,2016,2016,212105090.0,191466220.0,230661270.0,High systolic blood pressure,Metabolic risks
+2.0,High body-mass index,DALYs,2016,2016,135381330.0,88608730.0,187363700.0,High body-mass index,Metabolic risks
+2.0,Low bone mineral density,DALYs,2016,2016,11955490.0,10090790.0,14196270.0,Low bone mineral density,Metabolic risks
+2.0,Kidney dysfunction*,DALYs,2016,2016,60482180.0,55678630.0,65319350.0,Kidney dysfunction*,Metabolic risks
+0.0,All risk factors,Deaths,2017,2017,34100000.0,33300000.0,35000000.0,Other,All risk factors
+1.0,Environmental/occupational risks,Deaths,2017,2017,8320000.0,7690000.0,9020000.0,Other,Environmental/occupational risks
+2.0,"Unsafe water, sanitation, and handwashing",Deaths,2017,2017,1610000.0,1230000.0,2230000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe water source,Deaths,2017,2017,1230000.0,736000.0,1830000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe sanitation,Deaths,2017,2017,774000.0,566000.0,1060000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,No access to handwashing facility,Deaths,2017,2017,707000.0,416000.0,1020000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+2.0,Air pollution,Deaths,2017,2017,4900000.0,4420000.0,5390000.0,Air pollution,Environmental/occupational risks
+3.0,Particulate matter pollution,Deaths,2017,2017,4580000.0,4130000.0,5030000.0,Air pollution,Environmental/occupational risks
+4.0,Ambient particulate matter pollution,Deaths,2017,2017,2940000.0,2500000.0,3360000.0,Air pollution,Environmental/occupational risks
+4.0,Household air pollution from solid fuels,Deaths,2017,2017,1640000.0,1400000.0,1930000.0,Air pollution,Environmental/occupational risks
+3.0,Ambient ozone pollution,Deaths,2017,2017,472000.0,177000.0,768000.0,Air pollution,Environmental/occupational risks
+2.0,Other environmental risks,Deaths,2017,2017,1140000.0,794000.0,1530000.0,Other environmental risks,Environmental/occupational risks
+3.0,Residential radon,Deaths,2017,2017,88000.0,50000.0,139000.0,Other environmental risks,Environmental/occupational risks
+3.0,Lead exposure,Deaths,2017,2017,1050000.0,709000.0,1430000.0,Other environmental risks,Environmental/occupational risks
+2.0,Occupational risks,Deaths,2017,2017,1160000.0,1050000.0,1280000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational carcinogens,Deaths,2017,2017,334000.0,271000.0,397000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational asthmagens,Deaths,2017,2017,34000.0,22000.0,47000.0,Occupational risks,Environmental/occupational risks
+3.0,"Occupational particulate matter, gases, and fumes",Deaths,2017,2017,488000.0,397000.0,584000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational injuries,Deaths,2017,2017,304000.0,288000.0,323000.0,Occupational risks,Environmental/occupational risks
+1.0,Behavioural risks,Deaths,2017,2017,23800000.0,23100000.0,24600000.0,Other,Behavioural risks
+2.0,Child and maternal malnutrition,Deaths,2017,2017,3190000.0,3020000.0,3360000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Suboptimal breastfeeding,Deaths,2017,2017,169000.0,132000.0,210000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Child growth failure,Deaths,2017,2017,1190000.0,1060000.0,1300000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Low birth weight and short gestation,Deaths,2017,2017,1880000.0,1790000.0,1970000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Iron deficiency,Deaths,2017,2017,60000.0,24000.0,91000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Vitamin A deficiency,Deaths,2017,2017,233000.0,179000.0,294000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Zinc deficiency,Deaths,2017,2017,29000.0,1000.0,77000.0,Child and maternal malnutrition,Behavioural risks
+2.0,Tobacco,Deaths,2017,2017,8100000.0,7790000.0,8420000.0,Tobacco,Behavioural risks
+3.0,Smoking,Deaths,2017,2017,7100000.0,6830000.0,7370000.0,Tobacco,Behavioural risks
+3.0,Chewing tobacco,Deaths,2017,2017,76000.0,62000.0,91000.0,Tobacco,Behavioural risks
+3.0,Second-hand smoke,Deaths,2017,2017,1220000.0,984000.0,1500000.0,Tobacco,Behavioural risks
+2.0,High alcohol use,Deaths,2017,2017,2840000.0,2440000.0,3250000.0,High alcohol use,Behavioural risks
+2.0,Drug use,Deaths,2017,2017,585000.0,535000.0,635000.0,Drug use,Behavioural risks
+2.0,Dietary risks,Deaths,2017,2017,10900000.0,10100000.0,11700000.0,Dietary risks,Behavioural risks
+3.0,Diet low in fruits,Deaths,2017,2017,2420000.0,1480000.0,3530000.0,Dietary risks,Behavioural risks
+3.0,Diet low in vegetables,Deaths,2017,2017,1460000.0,732000.0,2400000.0,Dietary risks,Behavioural risks
+3.0,Diet low in legumes,Deaths,2017,2017,535000.0,214000.0,909000.0,Dietary risks,Behavioural risks
+3.0,Diet low in whole grains,Deaths,2017,2017,3070000.0,2110000.0,4120000.0,Dietary risks,Behavioural risks
+3.0,Diet low in nuts and seeds,Deaths,2017,2017,2060000.0,1330000.0,2880000.0,Dietary risks,Behavioural risks
+3.0,Diet low in milk,Deaths,2017,2017,126000.0,45000.0,220000.0,Dietary risks,Behavioural risks
+3.0,Diet high in red meat,Deaths,2017,2017,25000.0,11000.0,40000.0,Dietary risks,Behavioural risks
+3.0,Diet high in processed meat,Deaths,2017,2017,130000.0,26000.0,265000.0,Dietary risks,Behavioural risks
+3.0,"Diet high in 
+sugar sweetened beverages",Deaths,2017,2017,137000.0,20000.0,264000.0,Dietary risks,Behavioural risks
+3.0,Diet low in fiber,Deaths,2017,2017,873000.0,510000.0,1330000.0,Dietary risks,Behavioural risks
+3.0,Diet low in calcium,Deaths,2017,2017,185000.0,116000.0,262000.0,Dietary risks,Behavioural risks
+3.0,Diet low in seafood omega-3 fatty acids,Deaths,2017,2017,1440000.0,667000.0,2380000.0,Dietary risks,Behavioural risks
+3.0,"Diet low in 
+polyunsaturated fatty acids",Deaths,2017,2017,799000.0,343000.0,1310000.0,Dietary risks,Behavioural risks
+3.0,Diet high in trans fatty acids,Deaths,2017,2017,258000.0,80000.0,577000.0,Dietary risks,Behavioural risks
+3.0,Diet high in sodium,Deaths,2017,2017,3200000.0,1420000.0,5450000.0,Dietary risks,Behavioural risks
+2.0,Intimate partner violence,Deaths,2017,2017,71000.0,49000.0,97000.0,Intimate partner violence,Behavioural risks
+2.0,Unsafe sex,Deaths,2017,2017,1030000.0,980000.0,1080000.0,Unsafe sex,Behavioural risks
+2.0,Low physical activity,Deaths,2017,2017,1260000.0,681000.0,2010000.0,Low physical activity,Behavioural risks
+1.0,Metabolic risks,Deaths,2017,2017,17600000.0,16100000.0,18900000.0,Other,Metabolic risks
+2.0,High fasting plasma glucose,Deaths,2017,2017,6530000.0,5230000.0,8230000.0,High fasting plasma glucose,Metabolic risks
+2.0,High LDL cholesterol*,Deaths,2017,2017,4320000.0,3330000.0,5440000.0,High LDL cholesterol*,Metabolic risks
+2.0,High systolic blood pressure,Deaths,2017,2017,10400000.0,9390000.0,11500000.0,High systolic blood pressure,Metabolic risks
+2.0,High body-mass index,Deaths,2017,2017,4720000.0,2990000.0,6700000.0,High body-mass index,Metabolic risks
+2.0,Low bone mineral density,Deaths,2017,2017,327000.0,308000.0,347000.0,Low bone mineral density,Metabolic risks
+2.0,Kidney dysfunction*,Deaths,2017,2017,2590000.0,2390000.0,2800000.0,Kidney dysfunction*,Metabolic risks
+0.0,All risk factors,DALYs,2017,2017,1210000000.0,1140000000.0,1280000000.0,Other,All risk factors
+1.0,Environmental/occupational risks,DALYs,2017,2017,308000000.0,283000000.0,333000000.0,Other,Environmental/occupational risks
+2.0,"Unsafe water, sanitation, and handwashing",DALYs,2017,2017,84400000.0,71800000.0,102000000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe water source,DALYs,2017,2017,63900000.0,40800000.0,83100000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,Unsafe sanitation,DALYs,2017,2017,41500000.0,34100000.0,49700000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+3.0,No access to handwashing facility,DALYs,2017,2017,38400000.0,22800000.0,52100000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+2.0,Air pollution,DALYs,2017,2017,147000000.0,132000000.0,162000000.0,Air pollution,Environmental/occupational risks
+3.0,Particulate matter pollution,DALYs,2017,2017,143000000.0,129000000.0,156000000.0,Air pollution,Environmental/occupational risks
+4.0,Ambient particulate matter pollution,DALYs,2017,2017,83000000.0,71400000.0,94300000.0,Air pollution,Environmental/occupational risks
+4.0,Household air pollution from solid fuels,DALYs,2017,2017,59500000.0,50800000.0,68900000.0,Air pollution,Environmental/occupational risks
+3.0,Ambient ozone pollution,DALYs,2017,2017,7370000.0,2740000.0,12000000.0,Air pollution,Environmental/occupational risks
+2.0,Other environmental risks,DALYs,2017,2017,26400000.0,18400000.0,34800000.0,Other environmental risks,Environmental/occupational risks
+3.0,Residential radon,DALYs,2017,2017,1930000.0,1080000.0,3020000.0,Other environmental risks,Environmental/occupational risks
+3.0,Lead exposure,DALYs,2017,2017,24400000.0,16700000.0,32800000.0,Other environmental risks,Environmental/occupational risks
+2.0,Occupational risks,DALYs,2017,2017,63700000.0,54900000.0,73200000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational carcinogens,DALYs,2017,2017,6750000.0,5490000.0,8120000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational asthmagens,DALYs,2017,2017,1910000.0,1500000.0,2410000.0,Occupational risks,Environmental/occupational risks
+3.0,"Occupational particulate matter, gases, and fumes",DALYs,2017,2017,12100000.0,10200000.0,13900000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational noise,DALYs,2017,2017,5980000.0,4080000.0,8430000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational injuries,DALYs,2017,2017,21100000.0,19200000.0,23500000.0,Occupational risks,Environmental/occupational risks
+3.0,Occupational ergonomic factors,DALYs,2017,2017,15900000.0,11200000.0,21800000.0,Occupational risks,Environmental/occupational risks
+1.0,Behavioural risks,DALYs,2017,2017,913000000.0,863000000.0,961000000.0,Other,Behavioural risks
+2.0,Child and maternal malnutrition,DALYs,2017,2017,327000000.0,303000000.0,352000000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Suboptimal breastfeeding,DALYs,2017,2017,15000000.0,11700000.0,18600000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Child growth failure,DALYs,2017,2017,100000000.0,89800000.0,110000000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Low birth weight and short gestation,DALYs,2017,2017,178000000.0,169000000.0,187000000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Iron deficiency,DALYs,2017,2017,33700000.0,23200000.0,47200000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Vitamin A deficiency,DALYs,2017,2017,29000000.0,23000000.0,35600000.0,Child and maternal malnutrition,Behavioural risks
+3.0,Zinc deficiency,DALYs,2017,2017,2580000.0,235000.0,6750000.0,Child and maternal malnutrition,Behavioural risks
+2.0,Tobacco,DALYs,2017,2017,213000000.0,201000000.0,227000000.0,Tobacco,Behavioural risks
+3.0,Smoking,DALYs,2017,2017,182000000.0,173000000.0,193000000.0,Tobacco,Behavioural risks
+3.0,Chewing tobacco,DALYs,2017,2017,1890000.0,1530000.0,2270000.0,Tobacco,Behavioural risks
+3.0,Second-hand smoke,DALYs,2017,2017,36300000.0,28600000.0,45100000.0,Tobacco,Behavioural risks
+2.0,High alcohol use,DALYs,2017,2017,108000000.0,96200000.0,120000000.0,High alcohol use,Behavioural risks
+2.0,Drug use,DALYs,2017,2017,41700000.0,35300000.0,48200000.0,Drug use,Behavioural risks
+2.0,Dietary risks,DALYs,2017,2017,255000000.0,234000000.0,274000000.0,Dietary risks,Behavioural risks
+3.0,Diet low in fruits,DALYs,2017,2017,64800000.0,40600000.0,92000000.0,Dietary risks,Behavioural risks
+3.0,Diet low in vegetables,DALYs,2017,2017,34200000.0,17700000.0,55700000.0,Dietary risks,Behavioural risks
+3.0,Diet low in legumes,DALYs,2017,2017,11000000.0,4390000.0,18700000.0,Dietary risks,Behavioural risks
+3.0,Diet low in whole grains,DALYs,2017,2017,82500000.0,59000000.0,109000000.0,Dietary risks,Behavioural risks
+3.0,Diet low in nuts and seeds,DALYs,2017,2017,49900000.0,33100000.0,68000000.0,Dietary risks,Behavioural risks
+3.0,Diet low in milk,DALYs,2017,2017,2720000.0,965000.0,4730000.0,Dietary risks,Behavioural risks
+3.0,Diet high in red meat,DALYs,2017,2017,1310000.0,508000.0,2250000.0,Dietary risks,Behavioural risks
+3.0,Diet high in processed meat,DALYs,2017,2017,3570000.0,1260000.0,6770000.0,Dietary risks,Behavioural risks
+3.0,"Diet high in 
+sugar sweetened beverages",DALYs,2017,2017,4450000.0,1490000.0,7700000.0,Dietary risks,Behavioural risks
+3.0,Diet low in fiber,DALYs,2017,2017,19900000.0,11600000.0,30400000.0,Dietary risks,Behavioural risks
+3.0,Diet low in calcium,DALYs,2017,2017,3890000.0,2450000.0,5480000.0,Dietary risks,Behavioural risks
+3.0,Diet low in seafood omega-3 fatty acids,DALYs,2017,2017,32400000.0,15200000.0,52700000.0,Dietary risks,Behavioural risks
+3.0,"Diet low in 
+polyunsaturated fatty acids",DALYs,2017,2017,17900000.0,7770000.0,29000000.0,Dietary risks,Behavioural risks
+3.0,Diet high in trans fatty acids,DALYs,2017,2017,6160000.0,1870000.0,13800000.0,Dietary risks,Behavioural risks
+3.0,Diet high in sodium,DALYs,2017,2017,70400000.0,33600000.0,118000000.0,Dietary risks,Behavioural risks
+2.0,Intimate partner violence,DALYs,2017,2017,6700000.0,5150000.0,8580000.0,Intimate partner violence,Behavioural risks
+2.0,Unsafe sex,DALYs,2017,2017,50200000.0,47100000.0,53400000.0,Unsafe sex,Behavioural risks
+2.0,Low physical activity,DALYs,2017,2017,23700000.0,12500000.0,37300000.0,Low physical activity,Behavioural risks
+1.0,Metabolic risks,DALYs,2017,2017,423000000.0,386000000.0,462000000.0,Other,Metabolic risks
+2.0,High fasting plasma glucose,DALYs,2017,2017,171000000.0,144000000.0,201000000.0,High fasting plasma glucose,Metabolic risks
+2.0,High LDL cholesterol*,DALYs,2017,2017,94900000.0,78800000.0,112000000.0,High LDL cholesterol*,Metabolic risks
+2.0,High systolic blood pressure,DALYs,2017,2017,218000000.0,198000000.0,237000000.0,High systolic blood pressure,Metabolic risks
+2.0,High body-mass index,DALYs,2017,2017,148000000.0,98600000.0,202000000.0,High body-mass index,Metabolic risks
+2.0,Low bone mineral density,DALYs,2017,2017,10300000.0,8690000.0,12200000.0,Low bone mineral density,Metabolic risks
+2.0,Kidney dysfunction*,DALYs,2017,2017,61300000.0,56900000.0,66100000.0,Kidney dysfunction*,Metabolic risks
+,"Unsafe water, sanitation, and handwashing",Deaths,2019,2019,1656887.36681212,1198864.93645106,2312688.3294011,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,Deaths,2019,2019,1230153.86030869,817815.756420702,1788898.0687431,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,Deaths,2019,2019,756584.950918143,542453.246245122,1095440.93025044,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,Deaths,2019,2019,6671739.56296979,5904630.9437778,7489436.88424954,Air pollution,Environmental/occupational risks
+,Ambient particulate matter pollution,Deaths,2019,2019,4140971.07058417,3454413.75151672,4800290.35158494,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,Deaths,2019,2019,2313991.16639029,1631340.46518821,3118141.38368304,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,Deaths,2019,2019,365222.408647554,174926.598689448,564270.153536512,Air pollution,Environmental/occupational risks
+,Other environmental risks,Deaths,2019,2019,985419.013969852,617806.091901313,1394596.56108788,Other environmental risks,Environmental/occupational risks
+,Residential radon,Deaths,2019,2019,83703.1387261858,16497.5264213878,162454.070479103,Other environmental risks,Environmental/occupational risks
+,Lead exposure,Deaths,2019,2019,901715.875243665,550909.466996096,1288853.7298709,Other environmental risks,Environmental/occupational risks
+,Child and maternal malnutrition,Deaths,2019,2019,2937803.72020609,2489635.66897963,3512072.98476153,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,Deaths,2019,2019,146321.740085431,103706.236467278,197043.841360646,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,Deaths,2019,2019,42349.2383618515,14999.7525164142,70283.1836077291,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,Deaths,2019,2019,23849.8489215438,2667.08430247246,49862.2100542518,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,Deaths,2019,2019,2805.90999711503,697.411053632094,6527.33227604863,Child and maternal malnutrition,Behavioural risks
+,Tobacco,Deaths,2019,2019,8708897.65674744,8123010.12413178,9309008.69000421,Tobacco,Behavioural risks
+,Smoking,Deaths,2019,2019,7693367.94822144,7158449.6142962,8200590.60724968,Tobacco,Behavioural risks
+,Second-hand smoke,Deaths,2019,2019,1304318.34547992,1006960.79795414,1605391.42265193,Tobacco,Behavioural risks
+,High alcohol use,Deaths,2019,2019,2441973.39225941,2136994.67566162,2784902.47840504,High alcohol use,Behavioural risks
+,Drug use,Deaths,2019,2019,494491.695588786,445658.258875565,548472.36850123,Drug use,Behavioural risks
+,Metabolic risks,Deaths,2019,2019,18560862.2139445,16875477.1387346,20175392.5989943,Other,Metabolic risks
+,High fasting plasma glucose,Deaths,2019,2019,6501397.69891167,5110277.98168757,8363052.5941056,High fasting plasma glucose,Metabolic risks
+,High systolic blood pressure,Deaths,2019,2019,10845595.1677194,9514140.63048467,12130846.2575839,High systolic blood pressure,Metabolic risks
+,High body-mass index,Deaths,2019,2019,5019359.71678876,3223363.53440102,7110735.87382683,High body-mass index,Metabolic risks
+,Low bone mineral density,Deaths,2019,2019,437884.401524671,361104.52247938,495521.244595317,Low bone mineral density,Metabolic risks
+,Dietary risks,Deaths,2019,2019,7943046.0662174,6472323.45561609,9757376.79249144,Dietary risks,Behavioural risks
+,Diet low in fruits,Deaths,2019,2019,1046014.85149847,730092.303933763,1363859.4078577,Dietary risks,Behavioural risks
+,Diet low in vegetables,Deaths,2019,2019,529381.294473023,340332.349137877,718248.266479947,Dietary risks,Behavioural risks
+,Diet low in whole grains,Deaths,2019,2019,1844836.14402205,921291.315475401,2338609.2376141,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,Deaths,2019,2019,575139.227628589,311225.472374473,789584.549327027,Dietary risks,Behavioural risks
+,Diet low in milk,Deaths,2019,2019,166456.355475281,107220.804004758,226027.206142109,Dietary risks,Behavioural risks
+,Diet high in red meat,Deaths,2019,2019,895674.865847097,535643.768341172,1251405.78588332,Dietary risks,Behavioural risks
+,Diet high in processed meat,Deaths,2019,2019,304284.428470904,154310.083253012,486449.431953603,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",Deaths,2019,2019,242218.192952048,172044.534744722,302250.292556166,Dietary risks,Behavioural risks
+,Diet low in fiber,Deaths,2019,2019,606223.954557137,342045.308150596,887467.110743672,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,Deaths,2019,2019,337279.714963052,165612.941196027,435663.334844461,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",Deaths,2019,2019,346234.394014849,44248.7051287729,707300.224144483,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,Deaths,2019,2019,644980.994780061,75905.1933222124,882254.19759501,Dietary risks,Behavioural risks
+,Diet high in sodium,Deaths,2019,2019,1885355.86872438,476839.194567855,4194708.61145616,Dietary risks,Behavioural risks
+,Low physical activity,Deaths,2019,2019,831502.012572398,427075.937529587,1470299.39365758,Low physical activity,Behavioural risks
+,Occupational risks,Deaths,2019,2019,1220501.39017826,1076745.91147243,1373472.56804599,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,Deaths,2019,2019,350325.406242992,279659.821313943,421410.654088662,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,Deaths,2019,2019,34395.3140742083,27827.5136960357,42614.4626691066,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",Deaths,2019,2019,524290.137101099,419998.894058624,642111.943213308,Occupational risks,Environmental/occupational risks
+,Occupational injuries,Deaths,2019,2019,311490.532759968,283714.750716141,343372.94986813,Occupational risks,Environmental/occupational risks
+,Intimate partner violence,Deaths,2019,2019,86503.3192032907,54944.175674043,125156.002030978,Intimate partner violence,Behavioural risks
+,Diet low in calcium,Deaths,2019,2019,137895.942410856,96834.7648839586,189221.03727682,Dietary risks,Behavioural risks
+,All risk factors,Deaths,2019,2019,35000050.0187163,32937413.3428731,36938465.4500648,Other,All risk factors
+,Unsafe sex,Deaths,2019,2019,984365.836450808,904987.95729308,1106165.99905132,Unsafe sex,Behavioural risks
+,Environmental/occupational risks,Deaths,2019,2019,11329973.550889,10341490.9166119,12358061.6435701,Other,Environmental/occupational risks
+,Behavioural risks,Deaths,2019,2019,21620208.2671424,20036994.9842291,23434013.7837815,Other,Behavioural risks
+,No access to handwashing facility,Deaths,2019,2019,627918.894866025,427171.986090058,846289.214800876,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Child growth failure,Deaths,2019,2019,1064705.90495918,867352.090707393,1311437.26928541,Child and maternal malnutrition,Behavioural risks
+,Non-optimal temperature,Deaths,2019,2019,1956838.18915005,1708854.313046,2214968.5215568,Non-optimal temperature,Environmental/occupational risks
+,Chewing tobacco,Deaths,2019,2019,55592.1995738117,43101.0476754774,68831.9339789891,Tobacco,Behavioural risks
+,Diet low in legumes,Deaths,2019,2019,1116424.03352137,252012.593665219,1815318.86434172,Dietary risks,Behavioural risks
+,High temperature,Deaths,2019,2019,307846.961437029,223025.221952409,455769.990712389,Non-optimal temperature,Environmental/occupational risks
+,Low temperature,Deaths,2019,2019,1652978.00131127,1413026.09309261,1913431.260268,Non-optimal temperature,Environmental/occupational risks
+,Low birth weight and short gestation,Deaths,2019,2019,1805481.51129347,1537291.42720029,2143499.77988218,Child and maternal malnutrition,Behavioural risks
+,Kidney dysfunction*,Deaths,2019,2019,3161551.84479555,2723362.52445371,3623813.84815269,Kidney dysfunction*,Metabolic risks
+,High LDL cholesterol*,Deaths,2019,2019,4396983.26268346,3301257.76725437,5651785.31684326,High LDL cholesterol*,Metabolic risks
+,Particulate matter pollution,Deaths,2019,2019,6454962.23697447,5718170.17853158,7235588.4823718,Air pollution,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",DALYs,2019,2019,87538461.1947568,69748717.1422366,108592067.698217,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,DALYs,2019,2019,65096465.998649,47674850.9818999,83747286.5783352,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,DALYs,2019,2019,41405159.4075026,33153186.5684072,52548320.2536077,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,DALYs,2019,2019,213284886.633513,188894775.428659,239530188.999461,Air pollution,Environmental/occupational risks
+,Ambient particulate matter pollution,DALYs,2019,2019,118215374.144248,95948202.3741049,138428611.039833,Air pollution,Environmental/occupational risks
+,Household air pollution from solid fuels,DALYs,2019,2019,91474468.7306209,67036498.800578,118593336.592371,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,DALYs,2019,2019,6210145.35725744,2985050.4246871,9630800.61258205,Air pollution,Environmental/occupational risks
+,Other environmental risks,DALYs,2019,2019,23561861.6024215,15480385.1217766,32524843.5358613,Other environmental risks,Environmental/occupational risks
+,Residential radon,DALYs,2019,2019,1885476.2695646,373710.405857009,3652494.75647196,Other environmental risks,Environmental/occupational risks
+,Lead exposure,DALYs,2019,2019,21676385.3328569,13812877.4375949,30297656.7359695,Other environmental risks,Environmental/occupational risks
+,Child and maternal malnutrition,DALYs,2019,2019,294779309.42354,252994742.379728,349534865.057043,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,DALYs,2019,2019,13145100.9888842,9346953.53787415,17614516.2172097,Child and maternal malnutrition,Behavioural risks
+,Iron deficiency,DALYs,2019,2019,31263125.083916,21271981.9692071,43987242.0222646,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,DALYs,2019,2019,3297057.07631427,1347265.68033885,5593875.76288212,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,DALYs,2019,2019,258812.803459276,66896.5294782598,597019.17668793,Child and maternal malnutrition,Behavioural risks
+,Tobacco,DALYs,2019,2019,229772303.160663,213076969.43039,246398939.005308,Tobacco,Behavioural risks
+,Smoking,DALYs,2019,2019,199794745.476503,185451306.073709,213815712.326619,Tobacco,Behavioural risks
+,Second-hand smoke,DALYs,2019,2019,37002067.5076173,28634295.1397787,45125997.8265718,Tobacco,Behavioural risks
+,High alcohol use,DALYs,2019,2019,92996235.2226489,82358722.0731188,105098270.328757,High alcohol use,Behavioural risks
+,Drug use,DALYs,2019,2019,30927026.6652818,26668899.960044,35669628.8788688,Drug use,Behavioural risks
+,Metabolic risks,DALYs,2019,2019,462801825.351556,420173797.925686,509937631.979442,Other,Metabolic risks
+,High fasting plasma glucose,DALYs,2019,2019,172068733.66272,142535291.033423,204905610.292306,High fasting plasma glucose,Metabolic risks
+,High systolic blood pressure,DALYs,2019,2019,235424636.139878,211056308.496632,260554757.721569,High systolic blood pressure,Metabolic risks
+,High body-mass index,DALYs,2019,2019,160265357.494357,105969034.158984,218870439.287827,High body-mass index,Metabolic risks
+,Low bone mineral density,DALYs,2019,2019,16647466.3994223,13503526.2358249,20036301.7418832,Low bone mineral density,Metabolic risks
+,Dietary risks,DALYs,2019,2019,187695611.722531,155915464.870632,225396721.892824,Dietary risks,Behavioural risks
+,Diet low in fruits,DALYs,2019,2019,27678336.1525521,20226683.1197523,35925411.300784,Dietary risks,Behavioural risks
+,Diet low in vegetables,DALYs,2019,2019,12953238.48279,8248082.56831476,17515468.8697509,Dietary risks,Behavioural risks
+,Diet low in whole grains,DALYs,2019,2019,42573706.3504837,22331727.7747077,53238699.0293731,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,DALYs,2019,2019,13595096.546288,7756115.80704582,18643841.2456166,Dietary risks,Behavioural risks
+,Diet low in milk,DALYs,2019,2019,3799297.24857622,2457767.552848,5124452.91399502,Dietary risks,Behavioural risks
+,Diet high in red meat,DALYs,2019,2019,23861073.7568091,15599234.0816413,32020022.0711741,Dietary risks,Behavioural risks
+,Diet high in processed meat,DALYs,2019,2019,8556880.5715729,5293182.26883161,12676193.1894375,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",DALYs,2019,2019,6307561.76006201,4300765.17816272,8079555.92331289,Dietary risks,Behavioural risks
+,Diet low in fiber,DALYs,2019,2019,15297367.3445709,9111327.66795394,21951846.984253,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,DALYs,2019,2019,7409654.91259736,3373472.42294569,9686982.23666079,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",DALYs,2019,2019,8012899.22559144,969247.907817242,16249212.8651237,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,DALYs,2019,2019,14234236.9514579,1580401.88499012,19410190.7866601,Dietary risks,Behavioural risks
+,Diet high in sodium,DALYs,2019,2019,44866637.6268002,13024501.4945786,94682290.1903748,Dietary risks,Behavioural risks
+,Low physical activity,DALYs,2019,2019,15747938.2067888,8515093.96991076,28617800.8337841,Low physical activity,Behavioural risks
+,Occupational risks,DALYs,2019,2019,66108349.1236452,56387137.9868096,75967679.0165883,Occupational risks,Environmental/occupational risks
+,Occupational carcinogens,DALYs,2019,2019,7691762.8836161,6206344.79039253,9328802.63685161,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,DALYs,2019,2019,1896342.56633272,1510606.49380882,2334593.34459353,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",DALYs,2019,2019,11788178.472088,9813894.93608727,13798194.6339449,Occupational risks,Environmental/occupational risks
+,Occupational noise,DALYs,2019,2019,7001448.62595467,4760561.97958773,10059343.1465183,Occupational risks,Environmental/occupational risks
+,Occupational injuries,DALYs,2019,2019,22419935.5870209,19842434.5489923,25396791.3776798,Occupational risks,Environmental/occupational risks
+,Occupational ergonomic factors,DALYs,2019,2019,15310680.9886327,10544903.6886497,20762409.3983894,Occupational risks,Environmental/occupational risks
+,Intimate partner violence,DALYs,2019,2019,8497964.17067719,4440756.44346883,13256990.9124657,Intimate partner violence,Behavioural risks
+,Diet low in calcium,DALYs,2019,2019,3144597.44987367,2248008.20499137,4259658.53644986,Dietary risks,Behavioural risks
+,All risk factors,DALYs,2019,2019,1213261691.04702,1118887000.2616,1319484142.52171,Other,All risk factors
+,Unsafe sex,DALYs,2019,2019,46645465.1669714,41865753.1999992,53526830.0057943,Unsafe sex,Behavioural risks
+,Environmental/occupational risks,DALYs,2019,2019,396647561.710889,359186711.412183,439495446.853756,Other,Environmental/occupational risks
+,Behavioural risks,DALYs,2019,2019,830769345.288608,760784804.622908,910579491.067878,Other,Behavioural risks
+,No access to handwashing facility,DALYs,2019,2019,34061681.3181838,23725314.2474254,44735126.0527914,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Child growth failure,DALYs,2019,2019,89759926.0379919,72602623.2164543,111739391.194438,Child and maternal malnutrition,Behavioural risks
+,Non-optimal temperature,DALYs,2019,2019,37603449.4147547,32417838.3795096,44296862.2499782,Non-optimal temperature,Environmental/occupational risks
+,Chewing tobacco,DALYs,2019,2019,1504402.84768373,1163705.81396499,1878172.85782995,Tobacco,Behavioural risks
+,Diet low in legumes,DALYs,2019,2019,24309038.5396405,5263142.14320042,39575296.5905358,Dietary risks,Behavioural risks
+,High temperature,DALYs,2019,2019,11696516.3912352,8189011.51194366,19372703.2639987,Non-optimal temperature,Environmental/occupational risks
+,Low temperature,DALYs,2019,2019,25954684.9733134,21667683.4863647,30902493.8117786,Non-optimal temperature,Environmental/occupational risks
+,Low birth weight and short gestation,DALYs,2019,2019,170087071.421598,145912387.617393,201254338.740386,Child and maternal malnutrition,Behavioural risks
+,Kidney dysfunction*,DALYs,2019,2019,76486944.9445875,67791320.4069835,86284798.3750056,Kidney dysfunction*,Metabolic risks
+,High LDL cholesterol*,DALYs,2019,2019,98618020.7837892,80335172.4236381,118987709.319775,High LDL cholesterol*,Metabolic risks
+,Particulate matter pollution,DALYs,2019,2019,209689842.874868,185903374.812178,235165660.692867,Air pollution,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",Deaths,2021,2021,1215365.1311992,746986.176001699,1737947.9660566,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Household air pollution from solid fuels,Deaths,2021,2021,3112926.41468198,1895168.20448616,5188696.626449,Air pollution,Environmental/occupational risks
+,Lead exposure,Deaths,2021,2021,1541908.67124966,-184924.271777134,3224760.41380061,Other environmental risks,Environmental/occupational risks
+,Smoking,Deaths,2021,2021,6175019.07538679,5047660.83716681,7226384.61674643,Tobacco,Behavioural risks
+,Drug use,Deaths,2021,2021,463360.16500154,408450.586157042,516078.538658255,Drug use,Behavioural risks
+,High systolic blood pressure,Deaths,2021,2021,10852106.4083334,9222901.9762696,12535782.3552264,High systolic blood pressure,Metabolic risks
+,Dietary risks,Deaths,2021,2021,7219015.89375553,1961199.9093284,10767029.5613031,Dietary risks,Behavioural risks
+,Diet low in milk,Deaths,2021,2021,146610.909261126,52323.5382849476,230009.588801282,Dietary risks,Behavioural risks
+,Unsafe water source,Deaths,2021,2021,802486.166136662,371672.744087592,1215503.48288101,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Diet low in fiber,Deaths,2021,2021,618783.302427818,226106.898717131,987569.142398294,Dietary risks,Behavioural risks
+,Ambient particulate matter pollution,Deaths,2021,2021,4718812.23763103,3480471.82985114,5795946.43715111,Air pollution,Environmental/occupational risks
+,Diet high in sodium,Deaths,2021,2021,1857695.59359268,367760.850916827,4251577.08605353,Dietary risks,Behavioural risks
+,Other environmental risks,Deaths,2021,2021,1624069.12990505,-45605.1823568043,3259956.61914097,Other environmental risks,Environmental/occupational risks
+,Child and maternal malnutrition,Deaths,2021,2021,2572941.38655862,2089194.90180375,3087337.93994952,Child and maternal malnutrition,Behavioural risks
+,Occupational asthmagens,Deaths,2021,2021,30546.383231274,24721.8354807801,43990.9935452465,Occupational risks,Environmental/occupational risks
+,Tobacco,Deaths,2021,2021,7250287.82562262,5738697.74040342,8703267.19022883,Tobacco,Behavioural risks
+,High alcohol use,Deaths,2021,2021,1809438.8121836,1424949.74478219,2280477.49796181,High alcohol use,Behavioural risks
+,High body-mass index,Deaths,2021,2021,3709063.34789778,1847840.08856915,5658334.0355099,High body-mass index,Metabolic risks
+,Diet low in whole grains,Deaths,2021,2021,1546242.68698825,707296.746514314,2343822.22829647,Dietary risks,Behavioural risks
+,Diet high in processed meat,Deaths,2021,2021,295268.699376322,56805.2254634352,502317.373659524,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",Deaths,2021,2021,737879.282209482,-2118790.29882907,2767688.42735375,Dietary risks,Behavioural risks
+,Occupational risks,Deaths,2021,2021,1443379.8357521,1303739.15900747,1595738.50864331,Occupational risks,Environmental/occupational risks
+,All risk factors,Deaths,2021,2021,34086634.0004667,31302868.2593409,36698306.2399948,Other,All risk factors
+,Diet low in legumes,Deaths,2021,2021,389328.769606269,-313415.181203872,1011097.99788587,Dietary risks,Behavioural risks
+,Low temperature,Deaths,2021,2021,1481691.90111774,1304977.3047233,1635207.17429322,Non-optimal temperature,Environmental/occupational risks
+,Environmental/occupational risks,Deaths,2021,2021,12818817.1253957,10896483.1953908,14588245.6201933,Other,Environmental/occupational risks
+,No access to handwashing facility,Deaths,2021,2021,446329.502814724,-124347.942414036,974738.161813,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Particulate matter pollution,Deaths,2021,2021,7833220.9153879,6479473.76298432,9263395.34606934,Air pollution,Environmental/occupational risks
+,Non-optimal temperature,Deaths,2021,2021,1907500.04599698,1655224.03793568,2202673.19610095,Non-optimal temperature,Environmental/occupational risks
+,Unsafe sanitation,Deaths,2021,2021,595241.622617686,410523.715371432,834464.729984194,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,High temperature,Deaths,2021,2021,442229.001057509,286707.651652218,616901.244071301,Non-optimal temperature,Environmental/occupational risks
+,Kidney dysfunction*,Deaths,2021,2021,3622840.03351538,3124321.81508503,4142442.76006642,Kidney dysfunction*,Metabolic risks
+,Residential radon,Deaths,2021,2021,82160.4586553862,-41644.7074929203,210376.637900432,Other environmental risks,Environmental/occupational risks
+,Suboptimal breastfeeding,Deaths,2021,2021,101023.147978121,74663.3007954297,130974.673170817,Child and maternal malnutrition,Behavioural risks
+,High fasting plasma glucose,Deaths,2021,2021,5292826.91293406,4487830.94869162,6114992.6322338,High fasting plasma glucose,Metabolic risks
+,Low bone mineral density,Deaths,2021,2021,459660.956681325,383676.341242423,519474.811139318,Low bone mineral density,Metabolic risks
+,Diet low in nuts and seeds,Deaths,2021,2021,658246.827457309,184906.146038822,1086133.71502607,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",Deaths,2021,2021,75725.3804443203,34284.3580288238,117265.954094679,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,Deaths,2021,2021,93310.7014985043,9229.38295129084,179613.684215078,Dietary risks,Behavioural risks
+,Occupational carcinogens,Deaths,2021,2021,341997.750897578,272577.069923507,412038.845593956,Occupational risks,Environmental/occupational risks
+,Occupational injuries,Deaths,2021,2021,480609.339766946,452246.387530666,507681.149763977,Occupational risks,Environmental/occupational risks
+,Low birth weight and short gestation,Deaths,2021,2021,1626132.53964018,1405081.80625454,1881124.04533233,Child and maternal malnutrition,Behavioural risks
+,Air pollution,Deaths,2021,2021,8079995.35775399,6709212.88518237,9483055.07001379,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,Deaths,2021,2021,489518.844937223,107204.206865516,836979.31258845,Air pollution,Environmental/occupational risks
+,Iron deficiency,Deaths,2021,2021,34291.7788151698,16601.2006052935,48547.6454900684,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,Deaths,2021,2021,17374.4038679158,-56819.0186240427,75974.9278297115,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,Deaths,2021,2021,1611.57809572742,-3461.68439403147,8666.84993111028,Child and maternal malnutrition,Behavioural risks
+,Second-hand smoke,Deaths,2021,2021,1292097.51849609,683120.078768174,1896164.50583565,Tobacco,Behavioural risks
+,Metabolic risks,Deaths,2021,2021,18562545.8555138,16337592.7994539,20590813.1547929,Other,Metabolic risks
+,Diet low in fruits,Deaths,2021,2021,1683591.63772107,769757.726378262,2470250.4438557,Dietary risks,Behavioural risks
+,Diet low in vegetables,Deaths,2021,2021,861479.896570154,541278.444980827,1189503.36589418,Dietary risks,Behavioural risks
+,Diet high in red meat,Deaths,2021,2021,333872.014848432,-146.321385154267,444431.014967803,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,Deaths,2021,2021,627342.216564792,119537.66072445,1082744.96194442,Dietary risks,Behavioural risks
+,Low physical activity,Deaths,2021,2021,657618.695734701,278741.786773928,1058456.23342328,Low physical activity,Behavioural risks
+,"Occupational particulate matter, gases, and fumes",Deaths,2021,2021,590226.361856306,474965.122496878,720314.423640855,Occupational risks,Environmental/occupational risks
+,Intimate partner violence,Deaths,2021,2021,61276.8597046213,43003.561486869,79134.9578673583,Intimate partner violence,Behavioural risks
+,Diet low in calcium,Deaths,2021,2021,83863.9916261323,64825.5282767432,102766.062574294,Dietary risks,Behavioural risks
+,Unsafe sex,Deaths,2021,2021,900652.055425061,851042.009971651,958885.835539198,Unsafe sex,Behavioural risks
+,Behavioural risks,Deaths,2021,2021,19115962.7102921,14801075.5589213,22678617.425391,Other,Behavioural risks
+,Child growth failure,Deaths,2021,2021,888199.271619672,506400.451837161,1220920.36979001,Child and maternal malnutrition,Behavioural risks
+,Chewing tobacco,Deaths,2021,2021,56843.1722489173,45752.5726010323,68787.055180008,Tobacco,Behavioural risks
+,High LDL cholesterol*,Deaths,2021,2021,3646004.20052523,2129327.02319597,5262170.27314629,High LDL cholesterol*,Metabolic risks
+,Unsafe sanitation,DALYs,2021,2021,31822783.2531799,24264596.8610158,41263871.7778652,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Other environmental risks,DALYs,2021,2021,35788601.8116865,1172806.04458746,68990863.9092349,Other environmental risks,Environmental/occupational risks
+,Child and maternal malnutrition,DALYs,2021,2021,272036735.925782,229293694.144851,320551744.678561,Child and maternal malnutrition,Behavioural risks
+,Smoking,DALYs,2021,2021,165080664.209595,135430162.197463,193938447.453166,Tobacco,Behavioural risks
+,Drug use,DALYs,2021,2021,27666344.3249277,24217536.7666958,30956951.4030088,Drug use,Behavioural risks
+,Dietary risks,DALYs,2021,2021,178258702.99262,49769060.8430206,260914616.255784,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,DALYs,2021,2021,16261043.0992492,4808156.27374184,26189581.65747,Dietary risks,Behavioural risks
+,"Diet high in 
+sugar sweetened beverages",DALYs,2021,2021,3607896.69797593,1703480.5472624,5566159.87043159,Dietary risks,Behavioural risks
+,Diet high in trans fatty acids,DALYs,2021,2021,2491995.345688,241561.977884194,4781960.75832411,Dietary risks,Behavioural risks
+,Occupational carcinogens,DALYs,2021,2021,7457983.12053075,6008319.18389244,9146671.86605898,Occupational risks,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",DALYs,2021,2021,62840745.2722943,39558846.2433956,85040998.2021051,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Occupational injuries,DALYs,2021,2021,31859651.3640435,29105520.4460847,34891501.724888,Occupational risks,Environmental/occupational risks
+,Household air pollution from solid fuels,DALYs,2021,2021,111462958.29322,75085852.4460746,163710710.533819,Air pollution,Environmental/occupational risks
+,Residential radon,DALYs,2021,2021,1898050.99522681,-968773.93434685,4852213.59710701,Other environmental risks,Environmental/occupational risks
+,Suboptimal breastfeeding,DALYs,2021,2021,9139749.35678972,6771468.48814183,11828671.5536876,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,DALYs,2021,2021,2663755.6691142,-3931015.04822064,8118159.57172166,Child and maternal malnutrition,Behavioural risks
+,Second-hand smoke,DALYs,2021,2021,34897107.5158903,17950481.2679276,52207785.7894374,Tobacco,Behavioural risks
+,Unsafe water source,DALYs,2021,2021,41718708.1055388,21351085.1297616,57788563.7292982,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,No access to handwashing facility,DALYs,2021,2021,23944950.6964289,-6436097.55290267,51394330.7775115,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,High systolic blood pressure,DALYs,2021,2021,225532967.038305,190383347.735117,258919806.587612,High systolic blood pressure,Metabolic risks
+,Ambient particulate matter pollution,DALYs,2021,2021,120004672.011679,86560331.2160647,149810185.344907,Air pollution,Environmental/occupational risks
+,Diet low in fruits,DALYs,2021,2021,43766703.1514532,17669818.0522956,65157800.464563,Dietary risks,Behavioural risks
+,Diet low in legumes,DALYs,2021,2021,9162566.76677788,-7635024.71790058,22951528.2628056,Dietary risks,Behavioural risks
+,Diet low in milk,DALYs,2021,2021,3492706.30713802,1198014.74936925,5497563.17593175,Dietary risks,Behavioural risks
+,Diet low in fiber,DALYs,2021,2021,16696607.4770706,5749429.09678298,26277841.6631708,Dietary risks,Behavioural risks
+,Iron deficiency,DALYs,2021,2021,34519623.004517,23607706.0568101,48762323.1381318,Child and maternal malnutrition,Behavioural risks
+,High temperature,DALYs,2021,2021,14087717.4086942,9846440.8224112,18449130.5829077,Non-optimal temperature,Environmental/occupational risks
+,Diet high in sodium,DALYs,2021,2021,41275914.0878416,9297839.44774784,91456678.4755488,Dietary risks,Behavioural risks
+,Tobacco,DALYs,2021,2021,194652812.737937,152072311.982487,233417374.155054,Tobacco,Behavioural risks
+,High alcohol use,DALYs,2021,2021,72254239.1492198,58930606.0669836,89116484.5300719,High alcohol use,Behavioural risks
+,Particulate matter pollution,DALYs,2021,2021,231511232.938127,194538892.195336,270855451.370096,Air pollution,Environmental/occupational risks
+,Occupational asthmagens,DALYs,2021,2021,1761565.75625969,1420292.85490279,2248897.84624425,Occupational risks,Environmental/occupational risks
+,Occupational ergonomic factors,DALYs,2021,2021,15569218.8180893,11025996.3123713,20908968.3780462,Occupational risks,Environmental/occupational risks
+,High fasting plasma glucose,DALYs,2021,2021,155682246.405254,131991637.205986,179659612.238925,High fasting plasma glucose,Metabolic risks
+,Low bone mineral density,DALYs,2021,2021,17310084.5728666,14294591.6067596,20511120.4085969,Low bone mineral density,Metabolic risks
+,Diet low in whole grains,DALYs,2021,2021,40414150.1864352,16951268.4172593,60948336.8058418,Dietary risks,Behavioural risks
+,Diet high in processed meat,DALYs,2021,2021,10357090.9912955,2261201.53985669,17731835.6468282,Dietary risks,Behavioural risks
+,"Diet low in 
+polyunsaturated fatty acids",DALYs,2021,2021,17869860.5395481,-56003352.1985371,65962498.5239818,Dietary risks,Behavioural risks
+,Occupational risks,DALYs,2021,2021,77215527.6298096,67764341.4942123,88152101.6572744,Occupational risks,Environmental/occupational risks
+,Occupational noise,DALYs,2021,2021,7847444.58733201,5313648.0970199,10980789.3436425,Occupational risks,Environmental/occupational risks
+,Unsafe sex,DALYs,2021,2021,43975284.5674187,41135193.011935,47562331.4953286,Unsafe sex,Behavioural risks
+,Intimate partner violence,DALYs,2021,2021,6975403.50147947,3737386.67441753,10453070.9359885,Intimate partner violence,Behavioural risks
+,Behavioural risks,DALYs,2021,2021,763258561.843508,649014978.895996,865224121.841111,Other,Behavioural risks
+,Child growth failure,DALYs,2021,2021,74061457.0982676,39980364.3388687,103085997.509864,Child and maternal malnutrition,Behavioural risks
+,Diet low in calcium,DALYs,2021,2021,2031477.99867649,1558142.83386293,2498107.98164951,Dietary risks,Behavioural risks
+,Non-optimal temperature,DALYs,2021,2021,38959507.9884166,32894663.4714176,46168380.3492188,Non-optimal temperature,Environmental/occupational risks
+,All risk factors,DALYs,2021,2021,1194160305.99788,1098926339.22844,1310811109.34507,Other,All risk factors
+,Environmental/occupational risks,DALYs,2021,2021,416369698.591555,363819533.065228,468501713.147278,Other,Environmental/occupational risks
+,Kidney dysfunction*,DALYs,2021,2021,86228294.6416617,76655165.3071977,96710408.2492948,Kidney dysfunction*,Metabolic risks
+,Chewing tobacco,DALYs,2021,2021,1581851.09594031,1264075.77540865,1916877.75394772,Tobacco,Behavioural risks
+,Low birth weight and short gestation,DALYs,2021,2021,160094703.919094,138485238.404195,183637818.274851,Child and maternal malnutrition,Behavioural risks
+,High LDL cholesterol*,DALYs,2021,2021,87726112.6987591,55136537.9587892,121279116.332083,High LDL cholesterol*,Metabolic risks
+,Air pollution,DALYs,2021,2021,235965143.683742,199343273.212088,275203958.05871,Air pollution,Environmental/occupational risks
+,Ambient ozone pollution,DALYs,2021,2021,8773024.48152813,1911013.78480162,14966066.7350882,Air pollution,Environmental/occupational risks
+,Lead exposure,DALYs,2021,2021,33890550.8164597,-1428397.70599419,67829855.3369699,Other environmental risks,Environmental/occupational risks
+,Zinc deficiency,DALYs,2021,2021,148446.989347308,-319235.459620344,805739.309590016,Child and maternal malnutrition,Behavioural risks
+,Metabolic risks,DALYs,2021,2021,476078739.990901,412470868.224027,541393380.178398,Other,Metabolic risks
+,High body-mass index,DALYs,2021,2021,128520083.084906,55989249.2542725,202388461.822296,High body-mass index,Metabolic risks
+,Diet low in vegetables,DALYs,2021,2021,20655690.6324031,12448914.0161153,28673801.9395984,Dietary risks,Behavioural risks
+,Diet high in red meat,DALYs,2021,2021,9633539.10667224,-4908.53200528372,13030228.3851559,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,DALYs,2021,2021,15511021.3514307,3098824.39583993,25946111.2991226,Dietary risks,Behavioural risks
+,Low physical activity,DALYs,2021,2021,15704960.4328681,7334697.50741822,24379666.2799438,Low physical activity,Behavioural risks
+,"Occupational particulate matter, gases, and fumes",DALYs,2021,2021,12719663.9835543,10681317.6681059,15091314.5385971,Occupational risks,Environmental/occupational risks
+,Low temperature,DALYs,2021,2021,25228777.8970858,22515710.9607114,28540097.071027,Non-optimal temperature,Environmental/occupational risks

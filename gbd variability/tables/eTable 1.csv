@@ -1,0 +1,40 @@
+,Overarching_group,Group,Risk_factor
+0,All risk factors,Other,['All risk factors']
+1,Behavioural risks,Child and maternal malnutrition,"['Suboptimal breastfeeding' 'Iron deficiency' 'Vitamin A deficiency'
+ 'Zinc deficiency' 'Child and maternal malnutrition'
+ 'Childhood undernutrition' 'Child growth failure'
+ 'Low birth weight and short gestation']"
+2,Behavioural risks,Dietary risks,"['Diet low in fruits' 'Diet low in vegetables' 'Diet low in whole grains'
+ 'Diet low in nuts and seeds' 'Diet low in milk' 'Diet high in red meat'
+ 'Diet high in processed meat' 'Diet high in \nsugar sweetened beverages'
+ 'Diet low in fiber' 'Diet low in calcium'
+ 'Diet low in seafood omega-3 fatty acids'
+ 'Diet low in \npolyunsaturated fatty acids'
+ 'Diet high in trans fatty acids' 'Diet high in sodium' 'Dietary risks'
+ 'Diet low in legumes']"
+3,Behavioural risks,Drug use,['Drug use']
+4,Behavioural risks,High alcohol use,['High alcohol use']
+5,Behavioural risks,Intimate partner violence,['Intimate partner violence']
+6,Behavioural risks,Low physical activity,['Low physical activity']
+7,Behavioural risks,Other,['Behavioural risks']
+8,Behavioural risks,Tobacco,['Tobacco' 'Smoking' 'Second-hand smoke' 'Chewing tobacco']
+9,Behavioural risks,Unsafe sex,['Unsafe sex']
+10,Environmental/occupational risks,Air pollution,"['Ambient particulate matter pollution'
+ 'Household air pollution from solid fuels' 'Ambient ozone pollution'
+ 'Air pollution' 'Particulate matter pollution']"
+11,Environmental/occupational risks,Non-optimal temperature,['Non-optimal temperature' 'High temperature' 'Low temperature']
+12,Environmental/occupational risks,Occupational risks,"['Occupational risks' 'Occupational carcinogens' 'Occupational asthmagens'
+ 'Occupational particulate matter, gases, and fumes' 'Occupational noise'
+ 'Occupational injuries' 'Occupational ergonomic factors']"
+13,Environmental/occupational risks,Other,['Environmental/occupational risks']
+14,Environmental/occupational risks,Other environmental risks,['Other environmental risks' 'Lead exposure' 'Residential radon']
+15,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing","['Unsafe water source' 'Unsafe sanitation'
+ 'Unsafe water, sanitation, and handwashing'
+ 'No access to handwashing facility']"
+16,Metabolic risks,High LDL cholesterol*,['High LDL cholesterol*']
+17,Metabolic risks,High body-mass index,['High body-mass index']
+18,Metabolic risks,High fasting plasma glucose,['High fasting plasma glucose']
+19,Metabolic risks,High systolic blood pressure,['High systolic blood pressure']
+20,Metabolic risks,Kidney dysfunction*,['Kidney dysfunction*']
+21,Metabolic risks,Low bone mineral density,['Low bone mineral density']
+22,Metabolic risks,Other,['Metabolic risks']
