@@ -28,13 +28,11 @@ Level,Risk_factor,measure,year_gbd,anal_year,val,lower,upper,Group,Overarching_g
 ,Diet low in milk,Deaths,2010,2010,100951.0,29728.0,171340.0,Dietary risks,Behavioural risks
 ,Diet high in red meat,Deaths,2010,2010,38092.0,10749.0,65727.0,Dietary risks,Behavioural risks
 ,Diet high in processed meat,Deaths,2010,2010,840857.0,188952.0,1460279.0,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",Deaths,2010,2010,299521.0,212310.0,403716.0,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,Deaths,2010,2010,299521.0,212310.0,403716.0,Dietary risks,Behavioural risks
 ,Diet low in fiber,Deaths,2010,2010,742888.0,334379.0,1166933.0,Dietary risks,Behavioural risks
 ,Diet low in calcium,Deaths,2010,2010,125594.0,88323.0,164800.0,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,Deaths,2010,2010,1389896.0,1010300.0,1781401.0,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",Deaths,2010,2010,533603.0,245096.0,820854.0,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,Deaths,2010,2010,533603.0,245096.0,820854.0,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,Deaths,2010,2010,515260.0,371081.0,649451.0,Dietary risks,Behavioural risks
 ,Diet high in sodium,Deaths,2010,2010,3104308.0,2016734.0,4105019.0,Dietary risks,Behavioural risks
 ,Low physical activity,Deaths,2010,2010,3183940.0,2657204.0,3718963.0,Low physical activity,Behavioural risks
@@ -74,13 +72,11 @@ polyunsaturated fatty acids",Deaths,2010,2010,533603.0,245096.0,820854.0,Dietary
 ,Diet low in milk,DALYs,2010,2010,2101000.0,619000.0,3544000.0,Dietary risks,Behavioural risks
 ,Diet high in red meat,DALYs,2010,2010,1853000.0,870000.0,2946000.0,Dietary risks,Behavioural risks
 ,Diet high in processed meat,DALYs,2010,2010,20939000.0,6982000.0,33468000.0,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",DALYs,2010,2010,8553000.0,5823000.0,11418000.0,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,DALYs,2010,2010,8553000.0,5823000.0,11418000.0,Dietary risks,Behavioural risks
 ,Diet low in fiber,DALYs,2010,2010,16452000.0,7401000.0,25783000.0,Dietary risks,Behavioural risks
 ,Diet low in calcium,DALYs,2010,2010,2590000.0,1873000.0,3322000.0,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,DALYs,2010,2010,28199000.0,20624000.0,35974000.0,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",DALYs,2010,2010,11680000.0,5360000.0,17798000.0,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,DALYs,2010,2010,11680000.0,5360000.0,17798000.0,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,DALYs,2010,2010,11592000.0,8395000.0,14623000.0,Dietary risks,Behavioural risks
 ,Diet high in sodium,DALYs,2010,2010,61231000.0,40124000.0,80342000.0,Dietary risks,Behavioural risks
 ,Low physical activity,DALYs,2010,2010,69318000.0,58646000.0,80182000.0,Low physical activity,Behavioural risks
@@ -129,13 +125,11 @@ polyunsaturated fatty acids",DALYs,2010,2010,11680000.0,5360000.0,17798000.0,Die
 ,Diet low in milk,Deaths,2013,2013,105000.0,30000.0,177000.0,Dietary risks,Behavioural risks
 ,Diet high in red meat,Deaths,2013,2013,102000.0,89000.0,116000.0,Dietary risks,Behavioural risks
 ,Diet high in processed meat,Deaths,2013,2013,644000.0,467000.0,881000.0,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",Deaths,2013,2013,126000.0,96000.0,166000.0,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,Deaths,2013,2013,126000.0,96000.0,166000.0,Dietary risks,Behavioural risks
 ,Diet low in fiber,Deaths,2013,2013,1009000.0,817000.0,1207000.0,Dietary risks,Behavioural risks
 ,Diet low in calcium,Deaths,2013,2013,141000.0,122000.0,160000.0,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,Deaths,2013,2013,1031000.0,769000.0,1304000.0,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",Deaths,2013,2013,581000.0,512000.0,651000.0,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,Deaths,2013,2013,581000.0,512000.0,651000.0,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,Deaths,2013,2013,405000.0,218000.0,645000.0,Dietary risks,Behavioural risks
 ,Diet high in sodium,Deaths,2013,2013,3689000.0,2028000.0,5810000.0,Dietary risks,Behavioural risks
 ,Intimate partner violence,Deaths,2013,2013,197000.0,146000.0,251000.0,Intimate partner violence,Behavioural risks
@@ -188,13 +182,11 @@ polyunsaturated fatty acids",Deaths,2013,2013,581000.0,512000.0,651000.0,Dietary
 ,Diet low in milk,DALYs,2013,2013,2218000.0,633000.0,3713000.0,Dietary risks,Behavioural risks
 ,Diet high in red meat,DALYs,2013,2013,4147000.0,3349000.0,5026000.0,Dietary risks,Behavioural risks
 ,Diet high in processed meat,DALYs,2013,2013,17380000.0,12677000.0,23925000.0,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",DALYs,2013,2013,6190000.0,4665000.0,8142000.0,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,DALYs,2013,2013,6190000.0,4665000.0,8142000.0,Dietary risks,Behavioural risks
 ,Diet low in fiber,DALYs,2013,2013,22098000.0,17996000.0,26349000.0,Dietary risks,Behavioural risks
 ,Diet low in calcium,DALYs,2013,2013,2876000.0,2507000.0,3258000.0,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,DALYs,2013,2013,22448000.0,16887000.0,28205000.0,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",DALYs,2013,2013,12670000.0,11103000.0,14342000.0,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,DALYs,2013,2013,12670000.0,11103000.0,14342000.0,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,DALYs,2013,2013,9875000.0,5503000.0,15228000.0,Dietary risks,Behavioural risks
 ,Diet high in sodium,DALYs,2013,2013,74327000.0,40615000.0,116717000.0,Dietary risks,Behavioural risks
 ,Intimate partner violence,DALYs,2013,2013,14454000.0,11027000.0,18164000.0,Intimate partner violence,Behavioural risks
@@ -245,13 +237,11 @@ polyunsaturated fatty acids",DALYs,2013,2013,12670000.0,11103000.0,14342000.0,Di
 ,Diet low in milk,Deaths,2015,2015,126000.0,44000.0,212000.0,Dietary risks,Behavioural risks
 ,Diet high in red meat,Deaths,2015,2015,43000.0,19000.0,69000.0,Dietary risks,Behavioural risks
 ,Diet high in processed meat,Deaths,2015,2015,541000.0,156000.0,914000.0,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",Deaths,2015,2015,39000.0,27000.0,55000.0,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,Deaths,2015,2015,39000.0,27000.0,55000.0,Dietary risks,Behavioural risks
 ,Diet low in fiber,Deaths,2015,2015,387000.0,183000.0,670000.0,Dietary risks,Behavioural risks
 ,Diet low in calcium,Deaths,2015,2015,160000.0,95000.0,232000.0,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,Deaths,2015,2015,1472000.0,616000.0,2378000.0,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",Deaths,2015,2015,388000.0,158000.0,610000.0,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,Deaths,2015,2015,388000.0,158000.0,610000.0,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,Deaths,2015,2015,448000.0,190000.0,827000.0,Dietary risks,Behavioural risks
 ,Diet high in sodium,Deaths,2015,2015,4130000.0,2446000.0,6419000.0,Dietary risks,Behavioural risks
 ,Intimate partner violence,Deaths,2015,2015,186000.0,148000.0,224000.0,Intimate partner violence,Behavioural risks
@@ -304,13 +294,11 @@ polyunsaturated fatty acids",Deaths,2015,2015,388000.0,158000.0,610000.0,Dietary
 ,Diet low in milk,DALYs,2015,2015,2603000.0,897000.0,4382000.0,Dietary risks,Behavioural risks
 ,Diet high in red meat,DALYs,2015,2015,1752000.0,638000.0,2957000.0,Dietary risks,Behavioural risks
 ,Diet high in processed meat,DALYs,2015,2015,14907000.0,6450000.0,23452000.0,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",DALYs,2015,2015,1449000.0,1004000.0,2059000.0,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,DALYs,2015,2015,1449000.0,1004000.0,2059000.0,Dietary risks,Behavioural risks
 ,Diet low in fiber,DALYs,2015,2015,8393000.0,3908000.0,14657000.0,Dietary risks,Behavioural risks
 ,Diet low in calcium,DALYs,2015,2015,3284000.0,1966000.0,4755000.0,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,DALYs,2015,2015,31310000.0,13272000.0,49823000.0,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",DALYs,2015,2015,8270000.0,3534000.0,12996000.0,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,DALYs,2015,2015,8270000.0,3534000.0,12996000.0,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,DALYs,2015,2015,11578000.0,5138000.0,20322000.0,Dietary risks,Behavioural risks
 ,Diet high in sodium,DALYs,2015,2015,83008000.0,49326000.0,127452000.0,Dietary risks,Behavioural risks
 ,Intimate partner violence,DALYs,2015,2015,13803000.0,11078000.0,16954000.0,Intimate partner violence,Behavioural risks
@@ -363,13 +351,11 @@ polyunsaturated fatty acids",DALYs,2015,2015,8270000.0,3534000.0,12996000.0,Diet
 3.0,Diet low in milk,Deaths,2016,2016,123210.0,45000.0,213850.0,Dietary risks,Behavioural risks
 3.0,Diet high in red meat,Deaths,2016,2016,31880.0,15080.0,51440.0,Dietary risks,Behavioural risks
 3.0,Diet high in processed meat,Deaths,2016,2016,139620.0,29840.0,271400.0,Dietary risks,Behavioural risks
-3.0,"Diet high in 
-sugar sweetened beverages",Deaths,2016,2016,22560.0,15330.0,33360.0,Dietary risks,Behavioural risks
+3.0,Diet high in sugar sweetened beverages,Deaths,2016,2016,22560.0,15330.0,33360.0,Dietary risks,Behavioural risks
 3.0,Diet low in fiber,Deaths,2016,2016,877850.0,502370.0,1337530.0,Dietary risks,Behavioural risks
 3.0,Diet low in calcium,Deaths,2016,2016,159880.0,101070.0,232620.0,Dietary risks,Behavioural risks
 3.0,Diet low in seafood omega-3 fatty acids,Deaths,2016,2016,1538760.0,641930.0,2518120.0,Dietary risks,Behavioural risks
-3.0,"Diet low in 
-polyunsaturated fatty acids",Deaths,2016,2016,404130.0,167800.0,628840.0,Dietary risks,Behavioural risks
+3.0,Diet low in polyunsaturated fatty acids,Deaths,2016,2016,404130.0,167800.0,628840.0,Dietary risks,Behavioural risks
 3.0,Diet high in trans fatty acids,Deaths,2016,2016,223640.0,62820.0,513159.99999999994,Dietary risks,Behavioural risks
 3.0,Diet high in sodium,Deaths,2016,2016,2310470.0,654700.0,4498830.0,Dietary risks,Behavioural risks
 3.0,Intimate partner violence,Deaths,2016,2016,65090.0,44850.0,85840.0,Intimate partner violence,Behavioural risks
@@ -424,13 +410,11 @@ polyunsaturated fatty acids",Deaths,2016,2016,404130.0,167800.0,628840.0,Dietary
 3.0,Diet low in milk,DALYs,2016,2016,2581500.0,930450.0,4435440.0,Dietary risks,Behavioural risks
 3.0,Diet high in red meat,DALYs,2016,2016,1247330.0,508190.0,2077330.0,Dietary risks,Behavioural risks
 3.0,Diet high in processed meat,DALYs,2016,2016,3196040.0,1091350.0,5836230.0,Dietary risks,Behavioural risks
-3.0,"Diet high in 
-sugar sweetened beverages",DALYs,2016,2016,779510.0,523900.0,1145180.0,Dietary risks,Behavioural risks
+3.0,Diet high in sugar sweetened beverages,DALYs,2016,2016,779510.0,523900.0,1145180.0,Dietary risks,Behavioural risks
 3.0,Diet low in fiber,DALYs,2016,2016,20119470.0,11653460.0,30430150.0,Dietary risks,Behavioural risks
 3.0,Diet low in calcium,DALYs,2016,2016,3353070.0,2127080.0,4832470.0,Dietary risks,Behavioural risks
 3.0,Diet low in seafood omega-3 fatty acids,DALYs,2016,2016,33347839.999999996,14222640.0,53678050.0,Dietary risks,Behavioural risks
-3.0,"Diet low in 
-polyunsaturated fatty acids",DALYs,2016,2016,8351809.999999999,3443290.0,12916370.0,Dietary risks,Behavioural risks
+3.0,Diet low in polyunsaturated fatty acids,DALYs,2016,2016,8351809.999999999,3443290.0,12916370.0,Dietary risks,Behavioural risks
 3.0,Diet high in trans fatty acids,DALYs,2016,2016,5111020.0,1348610.0,11683020.0,Dietary risks,Behavioural risks
 3.0,Diet high in sodium,DALYs,2016,2016,47567080.0,14436690.0,92411610.0,Dietary risks,Behavioural risks
 3.0,Intimate partner violence,DALYs,2016,2016,5575290.0,4224540.0,7079580.0,Intimate partner violence,Behavioural risks
@@ -485,13 +469,11 @@ polyunsaturated fatty acids",DALYs,2016,2016,8351809.999999999,3443290.0,1291637
 3.0,Diet low in milk,Deaths,2017,2017,126000.0,45000.0,220000.0,Dietary risks,Behavioural risks
 3.0,Diet high in red meat,Deaths,2017,2017,25000.0,11000.0,40000.0,Dietary risks,Behavioural risks
 3.0,Diet high in processed meat,Deaths,2017,2017,130000.0,26000.0,265000.0,Dietary risks,Behavioural risks
-3.0,"Diet high in 
-sugar sweetened beverages",Deaths,2017,2017,137000.0,20000.0,264000.0,Dietary risks,Behavioural risks
+3.0,Diet high in sugar sweetened beverages,Deaths,2017,2017,137000.0,20000.0,264000.0,Dietary risks,Behavioural risks
 3.0,Diet low in fiber,Deaths,2017,2017,873000.0,510000.0,1330000.0,Dietary risks,Behavioural risks
 3.0,Diet low in calcium,Deaths,2017,2017,185000.0,116000.0,262000.0,Dietary risks,Behavioural risks
 3.0,Diet low in seafood omega-3 fatty acids,Deaths,2017,2017,1440000.0,667000.0,2380000.0,Dietary risks,Behavioural risks
-3.0,"Diet low in 
-polyunsaturated fatty acids",Deaths,2017,2017,799000.0,343000.0,1310000.0,Dietary risks,Behavioural risks
+3.0,Diet low in polyunsaturated fatty acids,Deaths,2017,2017,799000.0,343000.0,1310000.0,Dietary risks,Behavioural risks
 3.0,Diet high in trans fatty acids,Deaths,2017,2017,258000.0,80000.0,577000.0,Dietary risks,Behavioural risks
 3.0,Diet high in sodium,Deaths,2017,2017,3200000.0,1420000.0,5450000.0,Dietary risks,Behavioural risks
 2.0,Intimate partner violence,Deaths,2017,2017,71000.0,49000.0,97000.0,Intimate partner violence,Behavioural risks
@@ -548,13 +530,11 @@ polyunsaturated fatty acids",Deaths,2017,2017,799000.0,343000.0,1310000.0,Dietar
 3.0,Diet low in milk,DALYs,2017,2017,2720000.0,965000.0,4730000.0,Dietary risks,Behavioural risks
 3.0,Diet high in red meat,DALYs,2017,2017,1310000.0,508000.0,2250000.0,Dietary risks,Behavioural risks
 3.0,Diet high in processed meat,DALYs,2017,2017,3570000.0,1260000.0,6770000.0,Dietary risks,Behavioural risks
-3.0,"Diet high in 
-sugar sweetened beverages",DALYs,2017,2017,4450000.0,1490000.0,7700000.0,Dietary risks,Behavioural risks
+3.0,Diet high in sugar sweetened beverages,DALYs,2017,2017,4450000.0,1490000.0,7700000.0,Dietary risks,Behavioural risks
 3.0,Diet low in fiber,DALYs,2017,2017,19900000.0,11600000.0,30400000.0,Dietary risks,Behavioural risks
 3.0,Diet low in calcium,DALYs,2017,2017,3890000.0,2450000.0,5480000.0,Dietary risks,Behavioural risks
 3.0,Diet low in seafood omega-3 fatty acids,DALYs,2017,2017,32400000.0,15200000.0,52700000.0,Dietary risks,Behavioural risks
-3.0,"Diet low in 
-polyunsaturated fatty acids",DALYs,2017,2017,17900000.0,7770000.0,29000000.0,Dietary risks,Behavioural risks
+3.0,Diet low in polyunsaturated fatty acids,DALYs,2017,2017,17900000.0,7770000.0,29000000.0,Dietary risks,Behavioural risks
 3.0,Diet high in trans fatty acids,DALYs,2017,2017,6160000.0,1870000.0,13800000.0,Dietary risks,Behavioural risks
 3.0,Diet high in sodium,DALYs,2017,2017,70400000.0,33600000.0,118000000.0,Dietary risks,Behavioural risks
 2.0,Intimate partner violence,DALYs,2017,2017,6700000.0,5150000.0,8580000.0,Intimate partner violence,Behavioural risks
@@ -600,12 +580,10 @@ polyunsaturated fatty acids",DALYs,2017,2017,17900000.0,7770000.0,29000000.0,Die
 ,Diet low in milk,Deaths,2019,2019,166456.355475281,107220.804004758,226027.206142109,Dietary risks,Behavioural risks
 ,Diet high in red meat,Deaths,2019,2019,895674.865847097,535643.768341172,1251405.78588332,Dietary risks,Behavioural risks
 ,Diet high in processed meat,Deaths,2019,2019,304284.428470904,154310.083253012,486449.431953603,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",Deaths,2019,2019,242218.192952048,172044.534744722,302250.292556166,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,Deaths,2019,2019,242218.192952048,172044.534744722,302250.292556166,Dietary risks,Behavioural risks
 ,Diet low in fiber,Deaths,2019,2019,606223.954557137,342045.308150596,887467.110743672,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,Deaths,2019,2019,337279.714963052,165612.941196027,435663.334844461,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",Deaths,2019,2019,346234.394014849,44248.7051287729,707300.224144483,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,Deaths,2019,2019,346234.394014849,44248.7051287729,707300.224144483,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,Deaths,2019,2019,644980.994780061,75905.1933222124,882254.19759501,Dietary risks,Behavioural risks
 ,Diet high in sodium,Deaths,2019,2019,1885355.86872438,476839.194567855,4194708.61145616,Dietary risks,Behavioural risks
 ,Low physical activity,Deaths,2019,2019,831502.012572398,427075.937529587,1470299.39365758,Low physical activity,Behavioural risks
@@ -664,12 +642,10 @@ polyunsaturated fatty acids",Deaths,2019,2019,346234.394014849,44248.7051287729,
 ,Diet low in milk,DALYs,2019,2019,3799297.24857622,2457767.552848,5124452.91399502,Dietary risks,Behavioural risks
 ,Diet high in red meat,DALYs,2019,2019,23861073.7568091,15599234.0816413,32020022.0711741,Dietary risks,Behavioural risks
 ,Diet high in processed meat,DALYs,2019,2019,8556880.5715729,5293182.26883161,12676193.1894375,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",DALYs,2019,2019,6307561.76006201,4300765.17816272,8079555.92331289,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,DALYs,2019,2019,6307561.76006201,4300765.17816272,8079555.92331289,Dietary risks,Behavioural risks
 ,Diet low in fiber,DALYs,2019,2019,15297367.3445709,9111327.66795394,21951846.984253,Dietary risks,Behavioural risks
 ,Diet low in seafood omega-3 fatty acids,DALYs,2019,2019,7409654.91259736,3373472.42294569,9686982.23666079,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",DALYs,2019,2019,8012899.22559144,969247.907817242,16249212.8651237,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,DALYs,2019,2019,8012899.22559144,969247.907817242,16249212.8651237,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,DALYs,2019,2019,14234236.9514579,1580401.88499012,19410190.7866601,Dietary risks,Behavioural risks
 ,Diet high in sodium,DALYs,2019,2019,44866637.6268002,13024501.4945786,94682290.1903748,Dietary risks,Behavioural risks
 ,Low physical activity,DALYs,2019,2019,15747938.2067888,8515093.96991076,28617800.8337841,Low physical activity,Behavioural risks
@@ -717,8 +693,7 @@ polyunsaturated fatty acids",DALYs,2019,2019,8012899.22559144,969247.907817242,1
 ,High body-mass index,Deaths,2021,2021,3709063.34789778,1847840.08856915,5658334.0355099,High body-mass index,Metabolic risks
 ,Diet low in whole grains,Deaths,2021,2021,1546242.68698825,707296.746514314,2343822.22829647,Dietary risks,Behavioural risks
 ,Diet high in processed meat,Deaths,2021,2021,295268.699376322,56805.2254634352,502317.373659524,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",Deaths,2021,2021,737879.282209482,-2118790.29882907,2767688.42735375,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,Deaths,2021,2021,737879.282209482,-2118790.29882907,2767688.42735375,Dietary risks,Behavioural risks
 ,Occupational risks,Deaths,2021,2021,1443379.8357521,1303739.15900747,1595738.50864331,Occupational risks,Environmental/occupational risks
 ,All risk factors,Deaths,2021,2021,34086634.0004667,31302868.2593409,36698306.2399948,Other,All risk factors
 ,Diet low in legumes,Deaths,2021,2021,389328.769606269,-313415.181203872,1011097.99788587,Dietary risks,Behavioural risks
@@ -735,8 +710,7 @@ polyunsaturated fatty acids",Deaths,2021,2021,737879.282209482,-2118790.29882907
 ,High fasting plasma glucose,Deaths,2021,2021,5292826.91293406,4487830.94869162,6114992.6322338,High fasting plasma glucose,Metabolic risks
 ,Low bone mineral density,Deaths,2021,2021,459660.956681325,383676.341242423,519474.811139318,Low bone mineral density,Metabolic risks
 ,Diet low in nuts and seeds,Deaths,2021,2021,658246.827457309,184906.146038822,1086133.71502607,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",Deaths,2021,2021,75725.3804443203,34284.3580288238,117265.954094679,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,Deaths,2021,2021,75725.3804443203,34284.3580288238,117265.954094679,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,Deaths,2021,2021,93310.7014985043,9229.38295129084,179613.684215078,Dietary risks,Behavioural risks
 ,Occupational carcinogens,Deaths,2021,2021,341997.750897578,272577.069923507,412038.845593956,Occupational risks,Environmental/occupational risks
 ,Occupational injuries,Deaths,2021,2021,480609.339766946,452246.387530666,507681.149763977,Occupational risks,Environmental/occupational risks
@@ -768,8 +742,7 @@ sugar sweetened beverages",Deaths,2021,2021,75725.3804443203,34284.3580288238,11
 ,Drug use,DALYs,2021,2021,27666344.3249277,24217536.7666958,30956951.4030088,Drug use,Behavioural risks
 ,Dietary risks,DALYs,2021,2021,178258702.99262,49769060.8430206,260914616.255784,Dietary risks,Behavioural risks
 ,Diet low in nuts and seeds,DALYs,2021,2021,16261043.0992492,4808156.27374184,26189581.65747,Dietary risks,Behavioural risks
-,"Diet high in 
-sugar sweetened beverages",DALYs,2021,2021,3607896.69797593,1703480.5472624,5566159.87043159,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,DALYs,2021,2021,3607896.69797593,1703480.5472624,5566159.87043159,Dietary risks,Behavioural risks
 ,Diet high in trans fatty acids,DALYs,2021,2021,2491995.345688,241561.977884194,4781960.75832411,Dietary risks,Behavioural risks
 ,Occupational carcinogens,DALYs,2021,2021,7457983.12053075,6008319.18389244,9146671.86605898,Occupational risks,Environmental/occupational risks
 ,"Unsafe water, sanitation, and handwashing",DALYs,2021,2021,62840745.2722943,39558846.2433956,85040998.2021051,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
@@ -794,13 +767,13 @@ sugar sweetened beverages",DALYs,2021,2021,3607896.69797593,1703480.5472624,5566
 ,High alcohol use,DALYs,2021,2021,72254239.1492198,58930606.0669836,89116484.5300719,High alcohol use,Behavioural risks
 ,Particulate matter pollution,DALYs,2021,2021,231511232.938127,194538892.195336,270855451.370096,Air pollution,Environmental/occupational risks
 ,Occupational asthmagens,DALYs,2021,2021,1761565.75625969,1420292.85490279,2248897.84624425,Occupational risks,Environmental/occupational risks
+,Nitrogen dioxide pollution,DALYs,2021,2021,176734.196586191,-160463.95845218,734857.137585335,Air pollution,Environmental/occupational risks
 ,Occupational ergonomic factors,DALYs,2021,2021,15569218.8180893,11025996.3123713,20908968.3780462,Occupational risks,Environmental/occupational risks
 ,High fasting plasma glucose,DALYs,2021,2021,155682246.405254,131991637.205986,179659612.238925,High fasting plasma glucose,Metabolic risks
 ,Low bone mineral density,DALYs,2021,2021,17310084.5728666,14294591.6067596,20511120.4085969,Low bone mineral density,Metabolic risks
 ,Diet low in whole grains,DALYs,2021,2021,40414150.1864352,16951268.4172593,60948336.8058418,Dietary risks,Behavioural risks
 ,Diet high in processed meat,DALYs,2021,2021,10357090.9912955,2261201.53985669,17731835.6468282,Dietary risks,Behavioural risks
-,"Diet low in 
-polyunsaturated fatty acids",DALYs,2021,2021,17869860.5395481,-56003352.1985371,65962498.5239818,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,DALYs,2021,2021,17869860.5395481,-56003352.1985371,65962498.5239818,Dietary risks,Behavioural risks
 ,Occupational risks,DALYs,2021,2021,77215527.6298096,67764341.4942123,88152101.6572744,Occupational risks,Environmental/occupational risks
 ,Occupational noise,DALYs,2021,2021,7847444.58733201,5313648.0970199,10980789.3436425,Occupational risks,Environmental/occupational risks
 ,Unsafe sex,DALYs,2021,2021,43975284.5674187,41135193.011935,47562331.4953286,Unsafe sex,Behavioural risks
@@ -827,3 +800,126 @@ polyunsaturated fatty acids",DALYs,2021,2021,17869860.5395481,-56003352.1985371,
 ,Low physical activity,DALYs,2021,2021,15704960.4328681,7334697.50741822,24379666.2799438,Low physical activity,Behavioural risks
 ,"Occupational particulate matter, gases, and fumes",DALYs,2021,2021,12719663.9835543,10681317.6681059,15091314.5385971,Occupational risks,Environmental/occupational risks
 ,Low temperature,DALYs,2021,2021,25228777.8970858,22515710.9607114,28540097.071027,Non-optimal temperature,Environmental/occupational risks
+,Unsafe water source,Deaths,2023,2023,755220.161080266,383701.263837565,1069750.97614955,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",Deaths,2023,2023,1157587.45566095,686458.021724852,1707291.18030043,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe sanitation,Deaths,2023,2023,533827.941599874,385973.809950107,747346.28170458,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Ambient ozone pollution,Deaths,2023,2023,469855.555332451,108062.398083746,800843.843483191,Air pollution,Environmental/occupational risks
+,Air pollution,Deaths,2023,2023,7914669.01702861,6421789.15751179,9367993.08866592,Air pollution,Environmental/occupational risks
+,Other environmental risks,Deaths,2023,2023,3560080.41692846,2701908.5910285,4437095.43331357,Other environmental risks,Environmental/occupational risks
+,Residential radon,Deaths,2023,2023,83076.7327877761,-38038.8460914515,208130.093961517,Other environmental risks,Environmental/occupational risks
+,Child and maternal malnutrition,Deaths,2023,2023,2568316.2087934,2176463.98134166,2893792.01580288,Child and maternal malnutrition,Behavioural risks
+,Suboptimal breastfeeding,Deaths,2023,2023,105441.105770925,73089.0101319161,136438.708356855,Child and maternal malnutrition,Behavioural risks
+,Smoking,Deaths,2023,2023,5819058.53513677,4835299.57738087,6991370.66667046,Tobacco,Behavioural risks
+,Lead exposure,Deaths,2023,2023,3477003.68414069,2579310.0346376,4360538.38363421,Other environmental risks,Environmental/occupational risks
+,Tobacco,Deaths,2023,2023,7372775.5179761,6358707.99906356,8510163.47448004,Tobacco,Behavioural risks
+,Vitamin A deficiency,Deaths,2023,2023,20559.0819787646,-35747.2532278874,96199.5744999406,Child and maternal malnutrition,Behavioural risks
+,Zinc deficiency,Deaths,2023,2023,5955.2711249736,-22372.3491682354,27287.724233876,Child and maternal malnutrition,Behavioural risks
+,High fasting plasma glucose,Deaths,2023,2023,5342839.37968247,4734354.67455619,6148577.28682261,High fasting plasma glucose,Metabolic risks
+,Iron deficiency,Deaths,2023,2023,41371.0123562904,21007.5263401606,57527.315417257,Child and maternal malnutrition,Behavioural risks
+,Second-hand smoke,Deaths,2023,2023,1661777.76637902,1334056.17393464,2070201.65732746,Tobacco,Behavioural risks
+,Drug use,Deaths,2023,2023,492069.134911438,439901.878936228,548897.017818627,Drug use,Behavioural risks
+,Low bone mineral density,Deaths,2023,2023,483039.426889991,397763.408225362,574015.600077475,Low bone mineral density,Metabolic risks
+,High alcohol use,Deaths,2023,2023,1294688.96302228,995352.258653639,1764679.74609118,High alcohol use,Behavioural risks
+,Metabolic risks,Deaths,2023,2023,19020776.6890038,17278812.2171171,20554778.8859258,Other,Metabolic risks
+,High systolic blood pressure,Deaths,2023,2023,10998071.5713035,8975774.32681606,12811685.094701,High systolic blood pressure,Metabolic risks
+,Diet low in whole grains,Deaths,2023,2023,1189943.1134646,536199.821215898,1870071.77165641,Dietary risks,Behavioural risks
+,High body-mass index,Deaths,2023,2023,3679554.79366409,2002301.04492138,5222850.83369131,High body-mass index,Metabolic risks
+,Diet low in fruits,Deaths,2023,2023,1763968.3985265,739975.650245814,2790818.169569,Dietary risks,Behavioural risks
+,Dietary risks,Deaths,2023,2023,7346822.09868387,3099026.57219441,10674756.0052549,Dietary risks,Behavioural risks
+,Diet high in processed meat,Deaths,2023,2023,307069.291638428,139351.597416982,509075.273577998,Dietary risks,Behavioural risks
+,Diet low in milk,Deaths,2023,2023,156795.0148798,56315.9100405512,248691.739537916,Dietary risks,Behavioural risks
+,Diet low in nuts and seeds,Deaths,2023,2023,884737.73530599,253652.387073351,1531622.40805804,Dietary risks,Behavioural risks
+,Diet low in vegetables,Deaths,2023,2023,933564.222646574,532011.362423504,1365700.10979821,Dietary risks,Behavioural risks
+,Diet low in polyunsaturated fatty acids,Deaths,2023,2023,523415.426020975,-1431021.66099378,2047611.97861958,Dietary risks,Behavioural risks
+,Diet low in fiber,Deaths,2023,2023,453169.00922195,126935.827029265,986025.498418398,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,Deaths,2023,2023,160106.910138102,88685.9963763217,237826.768969857,Dietary risks,Behavioural risks
+,Diet high in red meat,Deaths,2023,2023,364148.935331213,2.772286e-09,517434.787975671,Dietary risks,Behavioural risks
+,Occupational risks,Deaths,2023,2023,1158572.53789102,957835.007753468,1376568.41070052,Occupational risks,Environmental/occupational risks
+,Diet high in trans fatty acids,Deaths,2023,2023,389238.135450795,20866.0930470164,760535.909433043,Dietary risks,Behavioural risks
+,"Occupational particulate matter, gases, and fumes",Deaths,2023,2023,228603.66600131,73117.0592675052,436518.128621065,Occupational risks,Environmental/occupational risks
+,Diet high in sodium,Deaths,2023,2023,1672000.56072272,245561.922879979,4154920.22686427,Dietary risks,Behavioural risks
+,Occupational carcinogens,Deaths,2023,2023,348225.120923467,273241.898579339,418393.773485701,Occupational risks,Environmental/occupational risks
+,Diet low in seafood omega-3 fatty acids,Deaths,2023,2023,521498.67692551,132450.425185383,1047911.20994965,Dietary risks,Behavioural risks
+,Occupational injuries,Deaths,2023,2023,550628.182233492,454727.967405336,634881.412281925,Occupational risks,Environmental/occupational risks
+,Low physical activity,Deaths,2023,2023,670086.822616748,276153.55593431,1034962.83112973,Low physical activity,Behavioural risks
+,Diet low in calcium,Deaths,2023,2023,80986.3020901851,60859.4188024898,103916.357718629,Dietary risks,Behavioural risks
+,Occupational asthmagens,Deaths,2023,2023,31115.5687327514,21396.8095603039,46205.0396968757,Occupational risks,Environmental/occupational risks
+,Intimate partner violence,Deaths,2023,2023,144839.40174917,9178.50122132648,300622.072284252,Intimate partner violence,Behavioural risks
+,All risk factors,Deaths,2023,2023,34768400.0495137,33129071.0810326,36119705.8126425,Other,All risk factors
+,Unsafe sex,Deaths,2023,2023,1071314.84772921,938777.524833866,1210034.25723587,Unsafe sex,Behavioural risks
+,Environmental/occupational risks,Deaths,2023,2023,13888792.5821059,12441735.9989858,15368436.5844559,Other,Environmental/occupational risks
+,Behavioural risks,Deaths,2023,2023,19290429.6503878,15443969.077912,22242121.0603084,Other,Behavioural risks
+,No access to handwashing facility,Deaths,2023,2023,416139.856210219,-147564.728493182,994917.231711668,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Child growth failure,Deaths,2023,2023,1037101.16629396,660593.305911951,1324935.87958889,Child and maternal malnutrition,Behavioural risks
+,Non-optimal temperature,Deaths,2023,2023,1870121.64044742,1624232.64624909,2176328.36721252,Non-optimal temperature,Environmental/occupational risks
+,Chewing tobacco,Deaths,2023,2023,251383.307578461,148812.674674685,389020.645716247,Tobacco,Behavioural risks
+,High temperature,Deaths,2023,2023,539554.762988193,383716.620796688,748067.004502803,Non-optimal temperature,Environmental/occupational risks
+,Kidney dysfunction*,Deaths,2023,2023,3711763.79943271,3069071.57238264,4394102.82833967,Kidney dysfunction*,Metabolic risks
+,Diet low in legumes,Deaths,2023,2023,593529.780388168,-468420.351831637,1592852.70901489,Dietary risks,Behavioural risks
+,Low birth weight and short gestation,Deaths,2023,2023,1464100.49996589,1370210.98415661,1563642.713595,Child and maternal malnutrition,Behavioural risks
+,Low temperature,Deaths,2023,2023,1348072.48421366,1182467.99579911,1496914.60128042,Non-optimal temperature,Environmental/occupational risks
+,High LDL cholesterol*,Deaths,2023,2023,3628983.77894995,2229011.0749789,5361555.40238018,High LDL cholesterol*,Metabolic risks
+,Particulate matter pollution,Deaths,2023,2023,7667912.95788143,6241004.32239606,9064880.93554098,Air pollution,Environmental/occupational risks
+,"Unsafe water, sanitation, and handwashing",DALYs,2023,2023,61500889.846564,35154515.9564311,85914336.1468109,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Air pollution,DALYs,2023,2023,232483608.853336,193990864.271541,264052157.798444,Air pollution,Environmental/occupational risks
+,Unsafe sanitation,DALYs,2023,2023,29374736.6475904,21773374.085429,40016978.6631769,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Unsafe water source,DALYs,2023,2023,39840657.8710494,19956166.6407607,55398607.5801876,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Other environmental risks,DALYs,2023,2023,75241343.4872353,56725343.0634231,93965711.5059927,Other environmental risks,Environmental/occupational risks
+,Residential radon,DALYs,2023,2023,1904577.72760487,-863416.532498698,4762349.33716721,Other environmental risks,Environmental/occupational risks
+,Ambient ozone pollution,DALYs,2023,2023,8471094.15019703,1938094.31129286,14635651.6996549,Air pollution,Environmental/occupational risks
+,Suboptimal breastfeeding,DALYs,2023,2023,9549601.52498504,6628557.88979662,12348215.8207914,Child and maternal malnutrition,Behavioural risks
+,Child and maternal malnutrition,DALYs,2023,2023,275858608.582175,240889659.256375,315439047.960638,Child and maternal malnutrition,Behavioural risks
+,Vitamin A deficiency,DALYs,2023,2023,2914595.36330863,-2166630.98116362,9731075.10092233,Child and maternal malnutrition,Behavioural risks
+,Lead exposure,DALYs,2023,2023,73336765.7596304,55182800.950154,91372003.0617417,Other environmental risks,Environmental/occupational risks
+,Iron deficiency,DALYs,2023,2023,41989257.0834822,27594703.7459021,65876749.7399558,Child and maternal malnutrition,Behavioural risks
+,Smoking,DALYs,2023,2023,161709557.302925,131789103.728996,192487262.923003,Tobacco,Behavioural risks
+,Second-hand smoke,DALYs,2023,2023,44878750.3418384,35856341.6544442,54382630.5551629,Tobacco,Behavioural risks
+,Tobacco,DALYs,2023,2023,203921376.756266,171360628.373311,236562244.29054,Tobacco,Behavioural risks
+,Zinc deficiency,DALYs,2023,2023,542832.68736644,-2013217.64360723,2462556.02196163,Child and maternal malnutrition,Behavioural risks
+,High systolic blood pressure,DALYs,2023,2023,233664378.216504,189956416.112954,271633270.198771,High systolic blood pressure,Metabolic risks
+,Drug use,DALYs,2023,2023,29416616.1689851,26043663.7428843,32719944.7993156,Drug use,Behavioural risks
+,Dietary risks,DALYs,2023,2023,186496524.956624,76568786.7997856,261447381.562737,Dietary risks,Behavioural risks
+,High alcohol use,DALYs,2023,2023,56870187.593011,47429285.2744987,71348480.6931762,High alcohol use,Behavioural risks
+,High fasting plasma glucose,DALYs,2023,2023,161876783.309859,136650849.03956,187956060.822292,High fasting plasma glucose,Metabolic risks
+,Diet low in nuts and seeds,DALYs,2023,2023,22483622.9068292,6713797.14746687,37885424.9809135,Dietary risks,Behavioural risks
+,Diet high in sugar sweetened beverages,DALYs,2023,2023,6415238.90209198,3240775.9816669,9669557.65095843,Dietary risks,Behavioural risks
+,Metabolic risks,DALYs,2023,2023,506731561.093549,449013182.716746,555941559.380438,Other,Metabolic risks
+,Low bone mineral density,DALYs,2023,2023,23967491.191352,18767905.4157727,29375837.8688137,Low bone mineral density,Metabolic risks
+,High body-mass index,DALYs,2023,2023,135875886.00489,66168058.8719514,199777564.855383,High body-mass index,Metabolic risks
+,Diet high in trans fatty acids,DALYs,2023,2023,10281401.3954711,571657.457169527,19987935.629415,Dietary risks,Behavioural risks
+,Diet low in vegetables,DALYs,2023,2023,23408358.6826458,12811714.1430707,36034274.7477097,Dietary risks,Behavioural risks
+,Diet low in whole grains,DALYs,2023,2023,31744892.7544248,13561595.630198,50143145.6172216,Dietary risks,Behavioural risks
+,Occupational carcinogens,DALYs,2023,2023,7601267.35962538,6040696.83944645,9020493.60947904,Occupational risks,Environmental/occupational risks
+,Diet low in fruits,DALYs,2023,2023,47910446.6441702,17969561.413229,75858037.9464035,Dietary risks,Behavioural risks
+,Occupational noise,DALYs,2023,2023,9604007.83085795,6600925.73969509,12948176.2631594,Occupational risks,Environmental/occupational risks
+,Diet high in red meat,DALYs,2023,2023,10935463.5201896,9.64797774e-08,16392597.6246065,Dietary risks,Behavioural risks
+,Diet high in processed meat,DALYs,2023,2023,9887538.70167492,5003262.36385823,15430280.9016015,Dietary risks,Behavioural risks
+,Diet low in milk,DALYs,2023,2023,3778716.99507588,1292725.18597701,6066595.14601564,Dietary risks,Behavioural risks
+,Diet low in seafood omega-3 fatty acids,DALYs,2023,2023,13098055.8137201,3397721.31578389,25603462.6087529,Dietary risks,Behavioural risks
+,Diet low in fiber,DALYs,2023,2023,12430861.6535851,3169145.3467866,26778063.4315173,Dietary risks,Behavioural risks
+,Intimate partner violence,DALYs,2023,2023,18542099.360126,8737493.4245132,29989110.2437847,Intimate partner violence,Behavioural risks
+,Diet low in polyunsaturated fatty acids,DALYs,2023,2023,13642308.8853167,-40170447.6228999,51926962.0192104,Dietary risks,Behavioural risks
+,Diet low in calcium,DALYs,2023,2023,1970743.00271453,1449123.25529546,2527027.73550931,Dietary risks,Behavioural risks
+,Low physical activity,DALYs,2023,2023,16441325.8911839,7207532.58339353,25151243.0880533,Low physical activity,Behavioural risks
+,Diet high in sodium,DALYs,2023,2023,38390135.4872817,6808180.00276484,91725772.4871875,Dietary risks,Behavioural risks
+,Occupational risks,DALYs,2023,2023,77512407.275037,56251845.2967776,104495144.755473,Occupational risks,Environmental/occupational risks
+,"Occupational particulate matter, gases, and fumes",DALYs,2023,2023,5051990.3329005,1582532.7195783,9725493.66074998,Occupational risks,Environmental/occupational risks
+,Child growth failure,DALYs,2023,2023,84522772.2995805,51843322.668682,110717713.782149,Child and maternal malnutrition,Behavioural risks
+,Occupational ergonomic factors,DALYs,2023,2023,11095722.0414544,-9925879.41742054,31330245.0862828,Occupational risks,Environmental/occupational risks
+,Occupational asthmagens,DALYs,2023,2023,2267943.07191868,1740617.3501343,3095437.37400707,Occupational risks,Environmental/occupational risks
+,Occupational injuries,DALYs,2023,2023,41891476.63828,35426377.324892,49021879.8231274,Occupational risks,Environmental/occupational risks
+,Chewing tobacco,DALYs,2023,2023,6483553.75746755,3961808.81104173,9929159.77955909,Tobacco,Behavioural risks
+,Low temperature,DALYs,2023,2023,22920724.364176,20065413.7693191,26044176.89088,Non-optimal temperature,Environmental/occupational risks
+,Unsafe sex,DALYs,2023,2023,50567971.9467196,44808032.4326315,57086878.5640998,Unsafe sex,Behavioural risks
+,All risk factors,DALYs,2023,2023,1271685730.14154,1176421662.53824,1379572794.13064,Other,All risk factors
+,Behavioural risks,DALYs,2023,2023,807697498.858188,697238560.363032,904547457.931998,Other,Behavioural risks
+,No access to handwashing facility,DALYs,2023,2023,23696786.9255566,-7775180.39699297,54658425.4861969,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks
+,Environmental/occupational risks,DALYs,2023,2023,445177857.35025,394760805.077376,496392252.862633,Other,Environmental/occupational risks
+,Diet low in legumes,DALYs,2023,2023,14326607.3167397,-12304191.0257444,37349051.6757239,Dietary risks,Behavioural risks
+,Non-optimal temperature,DALYs,2023,2023,40059721.3135908,34648754.1658885,47751083.3646017,Non-optimal temperature,Environmental/occupational risks
+,High temperature,DALYs,2023,2023,17515666.5568643,13247334.5837677,23195769.3655092,Non-optimal temperature,Environmental/occupational risks
+,Low birth weight and short gestation,DALYs,2023,2023,145869359.298732,136893354.231505,156716091.98213,Child and maternal malnutrition,Behavioural risks
+,High LDL cholesterol*,DALYs,2023,2023,90731063.2970551,58978279.5974464,123325597.002097,High LDL cholesterol*,Metabolic risks
+,Kidney dysfunction*,DALYs,2023,2023,91057092.4632413,77577498.1385153,104844843.970938,Kidney dysfunction*,Metabolic risks
+,Particulate matter pollution,DALYs,2023,2023,227944406.040219,189924789.664386,260701417.089274,Air pollution,Environmental/occupational risks
+,Nitrogen dioxide pollution,DALYs,2023,2023,232616.86603497,-250029.797300153,956020.320254579,Air pollution,Environmental/occupational risks

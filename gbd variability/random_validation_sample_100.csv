@@ -15,8 +15,7 @@
 1381,2.0,High alcohol use,Deaths,2017,2017,2840000.0,2440000.0,3250000.0,High alcohol use,Behavioural risks
 1073,2.0,High body-mass index,Deaths,2016,2016,4525100.0,2867220.0,6434240.0,High body-mass index,Metabolic risks
 1218,3.0,Diet low in vegetables,DALYs,2016,2016,35489090.0,17454480.0,57174790.0,Dietary risks,Behavioural risks
-973,3.0,"Diet high in 
-sugar sweetened beverages",Deaths,2016,2006,17800.0,11490.0,29390.0,Dietary risks,Behavioural risks
+973,3.0,Diet high in sugar sweetened beverages,Deaths,2016,2006,17800.0,11490.0,29390.0,Dietary risks,Behavioural risks
 346,,Unsafe sex,Deaths,2013,1990,679000.0,561000.0,827000.0,Unsafe sex,Behavioural risks
 604,,Lead exposure,Deaths,2015,2005,461000.0,227000.0,745000.0,Other environmental risks,Environmental/occupational risks
 1364,3.0,Suboptimal breastfeeding,Deaths,2017,2017,169000.0,132000.0,210000.0,Child and maternal malnutrition,Behavioural risks
@@ -57,8 +56,7 @@ sugar sweetened beverages",Deaths,2016,2006,17800.0,11490.0,29390.0,Dietary risk
 1305,3.0,Diet low in milk,Deaths,2017,2007,96000.0,34000.0,171000.0,Dietary risks,Behavioural risks
 606,,Occupational carcinogens,Deaths,2015,2005,391000.0,370000.0,410000.0,Occupational risks,Environmental/occupational risks
 306,,"Occupational particulate matter, gases, and fumes",Deaths,2013,1990,197000.0,161000.0,236000.0,Occupational risks,Environmental/occupational risks
-1312,3.0,"Diet low in 
-polyunsaturated fatty acids",Deaths,2017,2007,676000.0,288000.0,1110000.0,Dietary risks,Behavioural risks
+1312,3.0,Diet low in polyunsaturated fatty acids,Deaths,2017,2007,676000.0,288000.0,1110000.0,Dietary risks,Behavioural risks
 326,,High alcohol use,Deaths,2013,1990,1977000.0,1555000.0,2329000.0,High alcohol use,Behavioural risks
 740,,Intimate partner violence,Deaths,2015,2015,186000.0,148000.0,224000.0,Intimate partner violence,Behavioural risks
 597,,No access to handwashing facility,Deaths,2015,2005,1116000.0,927000.0,1296000.0,"Unsafe water, sanitation, and handwashing",Environmental/occupational risks

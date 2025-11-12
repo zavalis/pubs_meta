@@ -1,18 +1,13 @@
 ,Overarching_group,Group,Risk_factor,Median Deaths (Min-Max),rmu_Deaths,Median DALYs (Min-Max),rmu_DALYs,n_estimates_Deaths,n_estimates_DALYs,cv_Deaths,cv_DALYs
-4,Behavioural risks,Child and maternal malnutrition,Iron deficiency,60000.0 (20950.0-199000.0),2.2,35849870.0 (31263125.1-52870000.0),0.5,7.0,7,0.8,0.2
-7,Behavioural risks,Child and maternal malnutrition,Vitamin A deficiency,83000.0 (17374.4-233000.0),2.5,7611000.0 (2663755.7-29000000.0),2.8,7.0,7,0.9,1.0
-8,Behavioural risks,Child and maternal malnutrition,Zinc deficiency,29000.0 (1611.6-97330.0),2.4,2580000.0 (148447.0-9136000.0),2.5,7.0,7,0.9,0.9
-9,Behavioural risks,Dietary risks,"Diet high in 
-sugar sweetened beverages",126000.0 (22560.0-299521.0),2.1,4450000.0 (779510.0-8553000.0),1.7,7.0,7,0.8,0.6
-10,Behavioural risks,Dietary risks,Diet high in processed meat,304284.4 (130000.0-840857.0),1.7,10357091.0 (3196040.0-20939000.0),1.6,7.0,7,0.6,0.6
-11,Behavioural risks,Dietary risks,Diet high in red meat,43000.0 (25000.0-895674.9),4.1,1853000.0 (1247330.0-23861073.8),3.6,7.0,7,1.5,1.3
-28,Behavioural risks,Low physical activity,Low physical activity,1373340.0 (657618.7-3183940.0),1.6,24315860.0 (15704960.4-69318000.0),1.6,7.0,7,0.5,0.6
-44,Environmental/occupational risks,Occupational risks,Occupational carcinogens,341997.8 (118097.0-746540.0),1.6,7457983.1 (2681000.0-20682730.0),2.1,7.0,7,0.5,0.7
-7,Behavioural risks,Child and maternal malnutrition,Vitamin A deficiency,83000.0 (17374.4-233000.0),2.5,7611000.0 (2663755.7-29000000.0),2.8,7.0,7,0.9,1.0
-8,Behavioural risks,Child and maternal malnutrition,Zinc deficiency,29000.0 (1611.6-97330.0),2.4,2580000.0 (148447.0-9136000.0),2.5,7.0,7,0.9,0.9
-9,Behavioural risks,Dietary risks,"Diet high in 
-sugar sweetened beverages",126000.0 (22560.0-299521.0),2.1,4450000.0 (779510.0-8553000.0),1.7,7.0,7,0.8,0.6
-10,Behavioural risks,Dietary risks,Diet high in processed meat,304284.4 (130000.0-840857.0),1.7,10357091.0 (3196040.0-20939000.0),1.6,7.0,7,0.6,0.6
-11,Behavioural risks,Dietary risks,Diet high in red meat,43000.0 (25000.0-895674.9),4.1,1853000.0 (1247330.0-23861073.8),3.6,7.0,7,1.5,1.3
-28,Behavioural risks,Low physical activity,Low physical activity,1373340.0 (657618.7-3183940.0),1.6,24315860.0 (15704960.4-69318000.0),1.6,7.0,7,0.5,0.6
-44,Environmental/occupational risks,Occupational risks,Occupational carcinogens,341997.8 (118097.0-746540.0),1.6,7457983.1 (2681000.0-20682730.0),2.1,7.0,7,0.5,0.7
+4,Behavioural risks,Child and maternal malnutrition,Iron deficiency,51174.6 (20950.0-199000.0),2.4,38919563.5 (31263125.1-52870000.0),0.5,8.0,8,0.8,0.2
+6,Behavioural risks,Child and maternal malnutrition,Suboptimal breastfeeding,160740.0 (101023.1-544817.0),1.7,14186625.0 (9139749.4-47537000.0),1.7,8.0,8,0.7,0.7
+7,Behavioural risks,Child and maternal malnutrition,Vitamin A deficiency,62590.0 (17374.4-233000.0),2.8,5795025.0 (2663755.7-29000000.0),3.1,8.0,8,0.9,1.0
+8,Behavioural risks,Child and maternal malnutrition,Zinc deficiency,27045.0 (1611.6-97330.0),2.7,2412825.0 (148447.0-9136000.0),2.8,8.0,8,1.0,1.0
+9,Behavioural risks,Dietary risks,Diet high in processed meat,305676.9 (130000.0-840857.0),1.8,10122314.8 (3196040.0-20939000.0),1.6,8.0,8,0.6,0.6
+10,Behavioural risks,Dietary risks,Diet high in red meat,72500.0 (25000.0-895674.9),3.8,3000000.0 (1247330.0-23861073.8),3.3,8.0,8,1.3,1.2
+12,Behavioural risks,Dietary risks,Diet high in sugar sweetened beverages,131500.0 (22560.0-299521.0),2.0,5320000.0 (779510.0-8553000.0),1.6,8.0,8,0.7,0.6
+28,Behavioural risks,Low physical activity,Low physical activity,1316670.0 (657618.7-3183940.0),1.7,24007930.0 (15704960.4-69318000.0),1.8,8.0,8,0.6,0.6
+30,Behavioural risks,Tobacco,Chewing tobacco,66421.6 (55592.2-251383.3),1.8,1735925.5 (1504402.8-6483553.8),1.7,4.0,4,0.9,0.8
+44,Environmental/occupational risks,Occupational risks,Occupational carcinogens,345111.4 (118097.0-746540.0),1.7,7529625.2 (2681000.0-20682730.0),2.1,8.0,8,0.5,0.6
+50,Environmental/occupational risks,Other environmental risks,Lead exposure,877357.9 (495000.0-3477003.7),2.5,19259692.7 (9287000.0-73336765.8),2.5,8.0,8,0.8,0.8
+51,Environmental/occupational risks,Other environmental risks,Other environmental risks,965209.5 (558000.0-3560080.4),2.4,21191930.8 (10673000.0-75241343.5),2.3,8.0,8,0.8,0.7

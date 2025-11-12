@@ -6,10 +6,10 @@
  'Low birth weight and short gestation']"
 2,Behavioural risks,Dietary risks,"['Diet low in fruits' 'Diet low in vegetables' 'Diet low in whole grains'
  'Diet low in nuts and seeds' 'Diet low in milk' 'Diet high in red meat'
- 'Diet high in processed meat' 'Diet high in \nsugar sweetened beverages'
+ 'Diet high in processed meat' 'Diet high in sugar sweetened beverages'
  'Diet low in fiber' 'Diet low in calcium'
  'Diet low in seafood omega-3 fatty acids'
- 'Diet low in \npolyunsaturated fatty acids'
+ 'Diet low in polyunsaturated fatty acids'
  'Diet high in trans fatty acids' 'Diet high in sodium' 'Dietary risks'
  'Diet low in legumes']"
 3,Behavioural risks,Drug use,['Drug use']
@@ -21,7 +21,8 @@
 9,Behavioural risks,Unsafe sex,['Unsafe sex']
 10,Environmental/occupational risks,Air pollution,"['Ambient particulate matter pollution'
  'Household air pollution from solid fuels' 'Ambient ozone pollution'
- 'Air pollution' 'Particulate matter pollution']"
+ 'Air pollution' 'Particulate matter pollution'
+ 'Nitrogen dioxide pollution']"
 11,Environmental/occupational risks,Non-optimal temperature,['Non-optimal temperature' 'High temperature' 'Low temperature']
 12,Environmental/occupational risks,Occupational risks,"['Occupational risks' 'Occupational carcinogens' 'Occupational asthmagens'
  'Occupational particulate matter, gases, and fumes' 'Occupational noise'

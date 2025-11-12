@@ -338,44 +338,8 @@ dev.off()
 
 # Read data
 df <- read.csv("./data/processed_data/dietary_ranks.csv")
+df$Risk_factor <- gsub("\n", "", df$Risk_factor)
 
-# Determine the order of Risk_factors based on their 2010 rank
-df_2010 <- subset(df, anal_year == 2010)
-order_2010 <- df_2010[order(df_2010$Rank), "Risk_factor"]
-
-# Risk factors not present in 2010 should come last (alphabetically or by later year)
-missing_rf <- setdiff(unique(df$Risk_factor), order_2010)
-risk_order <- unique(c(order_2010, sort(missing_rf)))
-
-# Reorder the factor levels in the dataframe
-df$Risk_factor <- factor(df$Risk_factor, levels = risk_order)
-df$measure=factor(df$measure,levels=c('Deaths','DALYs'))
-# Generate colors in this exact order
-colors_used <- qualitative_hcl(length(risk_order), palette = "Dynamic")
-
-
-
-ggplot(df, aes(x = anal_year, y = Rank, color = Risk_factor)) +
-  geom_bump(size = 1.5, alpha = 0.8) +
-  geom_point(size = 3) +
-  facet_wrap(~measure, ncol = 1) +
-  scale_y_reverse(breaks = seq(min(df$Rank), max(df$Rank), by = 1)) +  # Rank 1 at top
-  scale_color_manual(values = colors_used) +
-  labs(
-    x = "Year",
-    y = "Rank",
-    color = "Risk factor"
-  ) +
-  theme_classic() 
-
-
-
-+
-  theme(
-    text = element_text(family = "Arial", size = 10),
-    axis.text.x = element_text(angle = 45, hjust = 1, family = "ARIAL"),
-    legend.position = "right"
-  )
 
 library(dplyr)
 library(ggplot2)
@@ -384,12 +348,13 @@ library(patchwork)
 make_plot <- function(df_sub) {
   # Order by 2021 rank within this measure
   order_2021 <- df_sub %>%
-    filter(anal_year == 2021) %>%
+    filter(anal_year == 2023) %>%
     arrange(Rank) %>%
     pull(Risk_factor)
+  full_order <- c(order_2021, setdiff(unique(df_sub$Risk_factor), order_2021))
   
   df_sub <- df_sub %>%
-    mutate(Risk_factor = factor(Risk_factor, levels = order_2021))
+    mutate(Risk_factor = factor(Risk_factor, levels = full_order))
   
   ggplot(df_sub, aes(x = anal_year, y = Rank, color = Risk_factor)) +
     geom_bump(size = 1.5, alpha = 0.8) +
@@ -414,3 +379,5 @@ dev.off()
 
 # install if not already installed
 #install.packages("ineq")
+
+

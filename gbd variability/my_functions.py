@@ -52,7 +52,7 @@ tobacco = ['Smoking', 'Smokeless tobacco', 'Chewing tobacco', 'Second-hand smoke
 # childabuse is removed ...
 childabuse = [ 'Childhood sexual abuse','Childhood sexual abuse and bullying', 'Sexual violence against children and bullying', 'Sexual abuse and violence', 'Sexual violence against children', 'Childhood maltreatment', 'Bullying victimization', 'Sexual violence and bullying victimization']
 
-dietary_risks=['Diet low in fruits', 'Diet low in vegetables', 'Diet low in whole grains', 'Diet low in nuts and seeds', 'Diet low in milk', 'Diet low in fiber', 'Diet low in calcium', 'Diet low in seafood omega-3 fatty acids', 'Diet low in \npolyunsaturated fatty acids', 'Diet low in legumes', 'Diet high in red meat', 'Diet high in processed meat', 'Diet high in \nsugar sweetened beverages', 'Diet high in trans fatty acids', 'Diet high in sodium','Low physical activity']
+dietary_risks=['Diet low in fruits', 'Diet low in vegetables', 'Diet low in whole grains', 'Diet low in nuts and seeds', 'Diet low in milk', 'Diet low in fiber', 'Diet low in calcium', 'Diet low in seafood omega-3 fatty acids', 'Diet low in polyunsaturated fatty acids', 'Diet low in legumes', 'Diet high in red meat', 'Diet high in processed meat', 'Diet high in sugar sweetened beverages', 'Diet high in trans fatty acids', 'Diet high in sodium','Low physical activity']
 
 def plot_gbd(df, measure="Deaths", risk_subset=None,
              special_colors=None, default_color="#999999",
@@ -88,7 +88,7 @@ def plot_gbd(df, measure="Deaths", risk_subset=None,
         df = df[df["Risk_factor"].isin(risk_subset)]
     
     if special_colors is None:
-        special_colors = {2021: "#4E79A7", 2019: "#E15759",
+        special_colors = {2023:"#004D40",2021: "#1E88E5", 2019: "#D81B60",
                           2017: "#999999", 2016: "#999999",
                           2015: "#999999", 2013: "#999999", 2010: "#999999"}
     
@@ -264,6 +264,86 @@ def plot_risk_factors_side_by_side(df, measures, filename, nrows=4, ncols=4, y_t
 
     plt.savefig(filename, bbox_inches='tight')
     plt.show()
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+from matplotlib.ticker import FuncFormatter
+
+def plot_risk_factors_side_by_side(df, filename, nrows=4, ncols=4):
+    """
+    Create individual plots for each risk factor showing time trends 
+    for Deaths and DALYs with separate y-axes and a shared legend.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        DataFrame containing ['Risk_factor', 'measure', 'year_gbd', 'val'].
+    filename : str
+        Output file name prefix (e.g., 'gbd_risk_factors').
+    nrows, ncols : int, optional
+        Layout of subplots.
+    """
+    plt.style.use('seaborn-v0_8-colorblind')
+    plt.rcParams.update({'font.size': 11})
+
+    risk_factors = sorted(df['Risk_factor'].unique())
+    n_factors = len(risk_factors)
+    n_per_page = nrows * ncols
+
+    # Define colors and axes settings
+    palette = {'Deaths': '#D55E00', 'DALYs': '#0072B2'}
+    years = [2010, 2013, 2015, 2016, 2017, 2019, 2021, 2023]
+
+    for start in range(0, n_factors, n_per_page):
+        end = min(start + n_per_page, n_factors)
+        factors_subset = risk_factors[start:end]
+
+        fig, axes = plt.subplots(nrows=nrows, ncols=ncols, figsize=(ncols * 5, nrows * 3), sharex=True)
+        axes = axes.flatten()
+
+        for ax, factor in zip(axes, factors_subset):
+            df_plot = df[df['Risk_factor'] == factor]
+
+            # Split data
+            df_deaths = df_plot[df_plot['measure'] == 'Deaths']
+            df_dalys = df_plot[df_plot['measure'] == 'DALYs']
+
+            # Left axis for Deaths
+            ax.plot(df_deaths['year_gbd'], df_deaths['val'], 
+                    color=palette['Deaths'], marker='o', linewidth=1.5, label='Deaths')
+            ax.set_ylim(0, 5_000_000)
+            ax.set_yticks(range(0, 5_000_001, 1_000_000))
+            ax.yaxis.set_major_formatter(FuncFormatter(lambda x, _: f'{x/1_000_000:.0f}M'))
+
+            # Right axis for DALYs
+            ax2 = ax.twinx()
+            ax2.plot(df_dalys['year_gbd'], df_dalys['val'], 
+                     color=palette['DALYs'], marker='s', linewidth=1.5, label='DALYs')
+            ax2.set_ylim(0, 110_000_000)
+            ax2.set_yticks(range(0, 111_000_000, 20_000_000))
+            ax2.yaxis.set_major_formatter(FuncFormatter(lambda x, _: f'{x/1_000_000:.0f}M'))
+
+            # Common x-axis
+            ax.set_xticks(years)
+            ax.set_xticklabels([str(y) for y in years], rotation=45)
+            ax.set_title(factor, fontsize=10)
+            ax.spines['top'].set_visible(False)
+            ax2.spines['top'].set_visible(False)
+
+        # Hide unused axes
+        for ax in axes[len(factors_subset):]:
+            ax.set_visible(False)
+
+        # Shared legend
+        handles = [
+            plt.Line2D([], [], color=palette['Deaths'], marker='o', linestyle='-', label='Deaths'),
+            plt.Line2D([], [], color=palette['DALYs'], marker='s', linestyle='-', label='DALYs')
+        ]
+        fig.legend(handles=handles, loc='lower center', ncol=2, frameon=False)
+        plt.tight_layout(rect=[0, 0.05, 1, 0.95])
+        plt.savefig(f"{filename}", bbox_inches='tight', dpi=300)
+        plt.show()
+
 
 def compare_within_group(group):
     values = group[['val', 'lower', 'upper']].values
